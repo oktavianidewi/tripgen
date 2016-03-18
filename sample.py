@@ -1,6 +1,6 @@
 import random
 import string
-from operator import add
+from operator import add, truediv
 # from random import randint, random, sample
 
 huruf = string.ascii_uppercase
@@ -23,6 +23,8 @@ list_distances = {
     'EF':328, 'FE':328
 }
 
+sample_populasi = [['AB', 'BD', 'DE', 'ED', 'CA'],['AD', 'DB', 'BE', 'EC', 'CA'], ['AC', 'CB', 'BD', 'DE', 'EA'], ['AE', 'EB', 'BC', 'CD', 'DA'], ['AE', 'EC', 'CB', 'BD', 'DA'], ['AC', 'CD', 'DE', 'EB', 'BA']]
+
 def individual(startPoint, noOfPlaces):
     list_letter = [huruf[x] for x in range(1, noOfPlaces)]
     places = []
@@ -32,79 +34,105 @@ def individual(startPoint, noOfPlaces):
     for i in range(0, len(x)):
         if i == 0:
             # print list_distances[tes]
-            # places.append(startPoint+x[i])
+            places.append(startPoint+x[i])
             distances.append(list_distances[startPoint+x[i]])
         elif i < (len(x)-1):
-            # places.append(x[i]+x[i+1])
+            places.append(x[i]+x[i+1])
             distances.append(list_distances[x[i]+x[i+1]])
         else:
-            # places.append(x[i]+startPoint)
+            places.append(x[i]+startPoint)
             distances.append(list_distances[x[i]+startPoint])
     # return places
-    return distances
+    return places, distances
 
 def population(noOfIndividual, startPoint, noOfPlaces):
     return [individual(startPoint, noOfPlaces) for x in xrange(noOfIndividual)]
 
-def fitness(individual, target):
-    sum = reduce(add, individual, 0)
-    return abs(target-sum)
+def fitness(individu):
+    sample_distance = [list_distances[i] for i in individu]
+    jumlah = reduce(add, sample_distance, 0)
+    return jumlah
 
-def grade(populs, target):
-    # find average fitness for a population
+def selection(populasi):
+    fitness_populasi = [ fitness(i) for i in populasi ]
+    inverse_populasi = [ truediv(1, jumlah_individu) for jumlah_individu in fitness_populasi ]
+    total_inverse = reduce(add, inverse_populasi, 0)
+    probabilitas_populasi = [ truediv(inverse_individu, total_inverse) for inverse_individu in inverse_populasi ]
+    """
+    print fitness_populasi
+    print inverse_populasi
+    print total_inverse
+    """
+    return probabilitas_populasi
 
-    summed = reduce(add, (fitness(x, target) for x in populs), 0)
-    return summed / (len(populs) * 1.0)
+# membuat populasi baru
+def roulettewheel(populasi):
+    chromosom = selection(populasi)
+    kumulatif_chromosom = [ reduce(add, chromosom[:i], 0) for i in range(len(chromosom)+1) ]
+    kumulatif_chromosom.pop(0)
+    print kumulatif_chromosom
 
-# pelajari bagian evolve ngga paham bagian iniiiii
-def evolve(populs, target, retain = 0.2, random_select=0.05, mutate = 0.01):
-    graded = [ (fitness(x, target), x) for x in populs ]
-    graded = [ x[1] for x in sorted(graded) ]
-    retain_length = int(len(graded)*retain)
-    parents = graded[:retain_length]
+    randomnum = []
+    for i in range(6):
+        randomnum.append(random.uniform(0.0, 1.0))
+    # print randomnum
+    print 'sebelum ditukar : ', chromosom
+    print 'start'
+    for j in range(len(kumulatif_chromosom)-1):
+        if j == 0:
+            kondisi = kumulatif_chromosom[j-1] < randomnum[j] and randomnum[j] < kumulatif_chromosom[j]
+        else:
+            kondisi = randomnum[j] < kumulatif_chromosom[j]
 
-    # randomly add other individuals to promote generic diversity
-    for individual in graded[retain_length:]:
-        if random_select > random.random():
-            parents.append(individual)
+        print (kumulatif_chromosom[j-1], '<', randomnum[j]), (randomnum[j] , '<', kumulatif_chromosom[j] )
+        if ( kondisi ):
+            print j
+            current_position = j
+            temp = chromosom[j]
+            chromosom[j] = chromosom[j+1]
+            chromosom[j+1] = temp
+    print 'end'
+    print 'sesudah ditukar : ', chromosom
+    return chromosom
 
-    # mutate some individuals
-    for individual in parents:
-        if mutate > random.random():
-            pos_to_mutate = random.randint(0, len(individual)-1)
-            individual[pos_to_mutate] = random.randint(
-                min(individual), max(individual)
-            )
+    # new population
+    # bandingkan randomnum dan kumulatif_chromosom
 
-    # crossover parents to create children
-    parents_length = len(parents)
-    desired_length = len(populs) - parents_length
-    children = []
-    while len(children) < desired_length:
-        male = random.randint(0, parents_length-1)
-        female = random.randint(0, parents_length-1)
-        if male != female:
-            male = parents[male]
-            female = parents[female]
-            half = len(male)/2
-            child = male[:half] + female[:half]
-            children.append(child)
+    # print chromosom
 
-    parents.extend(children)
-    return parents
+def crossover(chromosom, pc = 0.25):
+    # dalam 1 generasi ada 2 * cp = crossover probability
+    randomnum = []
+    selectedrandomnum = []
+    selectedrandomnumindex = []
+
+    # pemilihan induk randomnum < pc
+    for i in range(6):
+        randomnum.append(random.uniform(0.0, 1.0))
+
+    for j in range(len(randomnum)):
+        if i < pc:
+            selectedrandomnumindex.append(j)
+            selectedrandomnum.append(randomnum[j])
+
+    # posisi crossover : bilangan acak antara 1 s.d len(lebar kromosom)-1
+
+
+def mutation(pm):
+    pass
+
+def evolve():
+    # manggil crossover, mutation, etc
+    pass
+# setelah mutasi, hitung lagi fitness nya
 
 # to understand random from a list
 startPoint = 'A' # endPoint = 'A'
 noOfPlaces = 6
 target = 100
-populs = population(10, startPoint, noOfPlaces)
-fitness_history = [grade(populs, target),]
-for i in xrange(1):
-    p = evolve(populs, target)
-    fitness_history.append(grade(populs, target))
+# populs = population(6, startPoint, noOfPlaces)
 
-print populs
-print fitness_history
-
+# print selection(sample_populasi)
+print roulettewheel(sample_populasi)
 # kalo udah ketemu nilai terendah,
 # gimana caranya backtrack dapetin dari kota mana kemana?
