@@ -1,0 +1,623 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "next_page_token" : "CoQC8wAAAA0W5XeijDygKrISn6ST-UIkcBtX1x7E74WNw696z7a5bawja1WovsxJwrf4AL8b3ay8CsauZcmA4r8_IsUjJZBY8CELPyUyCnFpygsZXwEui14KV8GOILtY5zVK-QBc0Nd8XUJhVRIX30dqGyPUSggF1zTSAooHfrCams9XYTAQ4ZPw62tRQKkjpU458Oorph4-hrw1DauAzf5QcM6cVO3zVvyRbmeZIi28u_iio8avY7cqa9bUVTjnOESi5g9nJj_7MDswOzr6g-b18UIFgr-0UDfpKPs7sqaI0fLxTu6jTr-TrcmS4Dpb0YnH9gRc3qHDjrm3B0YtcDN3dFP0iOkSEK1201Q_hMTefnxyHQLpxikaFHIvNHdpx5n1St-iYVlqKEOkODfz",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.190185699999999,
+               "lng" : 152.8264684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.620719,
+                  "lng" : 170.5023193
+               },
+               "southwest" : {
+                  "lat" : -23.2514406,
+                  "lng" : 125.722838
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b04895b5bc9e2068cd5659f6e286be452c9f6bbb",
+         "name" : "Melanesia",
+         "place_id" : "ChIJLzUty1pDdWkRQ12MhD9Xxiw",
+         "reference" : "CnRmAAAAP13PTrkqCVCGyoXv0_jkMsUZsjxbT1y7ARF__rp7sqQCAWm9MffzxOWGZhJI6nalGR_w3TYM8-ZguGZZZxSqmZxSZC-Rm2ArfBy_x4xaSqvwyTHM3VqSBOLHjMw-HnHXlFKHA6d0ieit19pm1FQrTBIQGr7pSOymok1W-BEUr98yBxoUcZsCac4Kd5b5xMBBaM9m2fig57k",
+         "scope" : "GOOGLE",
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.227437900000001,
+               "lng" : 106.8269599
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ae429dc32995b1c4bd3d9a68c261dc98e0340d65",
+         "name" : "JW Marriott Hotel Jakarta",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 423,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115756782974294983478/photos\"\u003eJW Marriott Hotel Jakarta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAJ5sQDJ6ncuwPJ9JrlxyDVRg8GJ48xVkkEXP4bsyW8g9CUgcrf3PYpohbRp57cyX9c2QKM7cUtY7VMZ68ADm-bftpXkG-YloSTyzGXgnP7sN7zCLv35C52p5ggEsxkSJMEhDXg-Hc7GSgA9PPkOqj7kBbGhQOp7QEz2vgMiHZKT-1ovYqtWFuXg",
+               "width" : 610
+            }
+         ],
+         "place_id" : "ChIJP7S31frzaS4RQ6KPVy79l_M",
+         "rating" : 4.1,
+         "reference" : "CnRtAAAAFBnC1Y6ES4NRWk36U7pkNKTGSVz-JrVAX3k6kaj1D6fshkl3WVkJkQc4g2jQILrPxtz9cZPmowTCMnnUzaLV6TUwh6TaWMVau5BOIBVhr9Xo1By91VVqIcyJ6c8OL5cVyhg8CTog5lIpHE9YgzDwiRIQ4koiVAjSNB_PFHpLYjk1PBoUwpYI4-Cm75BewOsHUp5UGEQsgkw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan DR Ide Anak Agung Gde Agung Kav E.1.2 No. 1 & 2 Kawasan, Mega Kuningan, Jakarta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2285397,
+               "lng" : 106.8271745
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4a388bbb3c0bd636d556a185506eec9a1041aedc",
+         "name" : "The Ritz-Carlton Jakarta, Mega Kuningan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 647,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112184189756473241317/photos\"\u003eirmadini soekamto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAQmKLUJMe-ubUmmcr6zzG_D9mZ07HOcjCZSryCSHCdIKMD3uNb4mM1csnYSu_dOlyqKBI5Cdu9bM6ad7et78YQoXVKGQRqVX4_ORQ6prq6SEyDYtryhsRc2NfbxgjQ1EqEhBddeVWGUjOTv0-NjfXqqspGhTO54Y-2vVYRFrOQJBhldr1savTgA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJfybAIuXzaS4R8vsIwXnJcz8",
+         "rating" : 4.4,
+         "reference" : "CoQBegAAALQP3zJDdTycL9Dng_uFkii9nUgqOXSbjyFFxB_vpUJ3aGrrA5l1jdwRTfa0wjj1y2KLFJS8dSrJXliXfPy2cCqHop-ZOKlOclF-gZxCZHiHA8iHiDUrbcSDclu5P4aUvpL_mv5Z1kfW5-bOPnfdF8vpc75qC8fIdYUdTRilwuHhEhBKfRFzS4rlDIVPt73qFnRoGhQmELqhPfiJ4VLrnS2aaCNazX_xxw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. DR. Ide Anak Agung Gde Agung Kav.E.1.1 No.1, Mega Kuningan Timur 3, Jakarta Selatan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1275118,
+               "lng" : 106.6536859
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "d06ce94ba8b2c414ebaa106d6d341da006f98988",
+         "name" : "Soekarno-Hatta International Airport",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102233308382512574452/photos\"\u003erian irawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA5zBWxFJxEyNO0gptKUDyTUTLAmUkUTZHyB6nuV4Lco4qI1uJkHA9LlBUj0_KiT4ZvnA_Cu33efJ8y4JJas0ILTg1NbEw7FoDUdgoqProZCpX5s7XfoniXYzbzCVK2pq7EhBT6Hde2KgsYzT99x7qE1MfGhSBsE5ZQcqYuXuGIxGWLvDGVirt6g",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJCcusWmkCai4R5T_6WYHp3mE",
+         "rating" : 3.9,
+         "reference" : "CoQBdwAAAOaXiGbgpDo6fNQ-sZmJauOwhtJ-Qa-T-Q_1r68SBRzHWV_BwRbmer40D9yTBgEfq3sQPXa7N83wLAMAaqjcuHn3A7cbKbcTfjnK-AztJofNBE5J0izxnz6dmefFLxD5L4GR5gCWIHJws-2o_kF47XvfGp1VXsPQJJJ2WB8UsmLxEhDzyqf33ULdZGZiymplCUW4GhQGotO9aRAPJonrNptzTGv7zzmsNw",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Jakarta, Kecamatan Tangerang"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1753924,
+               "lng" : 106.8271528
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "77a6e1f02f8f2913d3082f81528622947f6ca5ca",
+         "name" : "National Monument",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112561758469557713271/photos\"\u003eDodiet Sutardjo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAxN0F1imVJ818ts5ZFDwqjhtsU0PZ1X-0b1ZUQ321bMCp5z5smxqYTr4MpAjXtuK1VSkpznpLijuop7ez5IatUB15LtQYF0V9f360y6rAU0L9FvFSnjLYTuis4tsB1JKJEhB_zh0dZBtDf5stFDMsgcyoGhS2R2Odlqpx4oZiLhEDSIutBlLwcg",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJLbFk59L1aS4RyLzp4OHWKj0",
+         "rating" : 4.4,
+         "reference" : "CnRkAAAAfN6ZA-HqaiBzdlk8Ik2SOIZy92v2l_rKYyAc7gbuR72DS17OsTmPaFkJBfQvfpVPCnR6h8GuC7rXN-MyjF7brkp4oY4Qtz1izSSVaos_dBh_DiK4OWjXZzSpyiqtJHlQtVmALMcv1ms4uRqpctmZPBIQinwBOHzujalOrepVDwVJqBoUHPaj3mgZ1b3TwU7ocTflCELtfNo",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Central Jakarta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2656605,
+               "lng" : 106.8860229
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "13c37870909f66a4ae4d9f7ef252588e66596abe",
+         "name" : "Halim Perdanakusuma Airport",
+         "photos" : [
+            {
+               "height" : 432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109014695327756531251/photos\"\u003egede putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAASIrd-X7_TByPmcQL1F7JFw-UcNgL_e9VNKuYkx8Gojz_QqZ5lzxs9YCGlYf0yVqeWcLEg-qC54iKfffbpSZytjR1o1Mo7SKV51Mtk27r6Aje0B4QzeO-6xdztjbjEDizEhD5kfHq3CHNoZPXaA-mBST3GhRYo_nLk9-nWeIdzPSzpam38Ey5uA",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJl8wcB93yaS4R1ZPZbITeaxQ",
+         "rating" : 4.1,
+         "reference" : "CnRuAAAAgBGlFEQakYL_rKVfMbs_HXn0ceZYfBx7YgBbKaIEQYVtKmMR0LHorftGyu_nffcmqsJaUmk9154y-E1kOjs_qMg2az1_yq6e3hqMB4FaOBmEMXk8xeks2VVqHg7I7M1_DKIK3izrdfmpnQqfw27vTBIQ3UgjEyS3T18KgybdBO67VBoUesnP9EPUFKTig0TtQiO8kno65X0",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Jakarta Timur, Jalan Protokol Halim Perdana Kusuma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.229169300000001,
+               "lng" : 106.6109132
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1a9d397ae0d13d8d3e9979577fdc015e44b36f31",
+         "name" : "Universitas Pelita Harapan",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115525567705142280144/photos\"\u003eJoko Santosa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA6ntXlcUUn-ftsJy9FgS8-6YJJSrlfyglcGgDDGrsq3bo1AZLdwE62H63MRYT0HOfR9GBRkjg86scqMu5_EOlkMHpejFP8CJ8ILgvuVwJRp6FRYykNN29-jXfAxArQOLWEhCALW45ynWmab_5a1VTehdMGhT6joPdS7QlxqpLWr2FSBu-SUukxg",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJyQxvUhn8aS4RiqTz62rVKZM",
+         "rating" : 4.3,
+         "reference" : "CnRuAAAAh0IX2Y8F3chuEDXQ3e3quJ3MnBKwZe6cteOYbcXHwU57UhWSXRh1ItADYv05mxxkgPChKIs2ZlhClgX3jdevlYZe6imNGtTbfrO2qfhs3VdgF5gETUhg4I4Gd6m9zuxRdjYBI2I9KqxwL8lAPnWkwxIQ1MW-Ryz9rcH2jfl5C-vDIBoUD-dRhCusSAU0gNzbatNjefNKHmo",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Boulevard Palem Raya, Lippo Village, Kecamatan Tangerang"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.302445899999999,
+               "lng" : 106.8951559
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a27066734066805240aac1868995a0cebadb97d8",
+         "name" : "Taman Mini Indonesia Indah",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100892244298175365624/photos\"\u003eKresnata Adijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA8lWtlJoM4t-1mZL-eI1FJDGAzSycxRBTLMiIkn4U9YMjY4zRtHl7wrluY53Hc9fcw-I_x868r6ndjoywTjA2oGT4EFwh4Eg_WvnFy9R-jKBse2ZWKgEn9QKLFd7MgWXAEhBTWMGb66A_vK064981JVy5GhQMz1D3loo5rYQZWKaeGZvbX_21ig",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJYaJ20FDtaS4RDNry7LknMQc",
+         "rating" : 4.3,
+         "reference" : "CnRtAAAAy_33gf1UssZpWjRv5qHyIgx-P6_dlxF8hWG_zXpeaUo_ttLqokYx430OqgtDQsF9yhIfSahBFD-ilNrlFHGUYdUj_KaiAr0xR_GCkxeKOEb2Udk32or7LqCIvepD_oAUA8N91rCTHzHEyk9XgQQkTxIQae2BnuAdCbl_IWdRW2ssWBoUOQQLoLauo1IgRquzb3xGxoxp9js",
+         "scope" : "GOOGLE",
+         "types" : [
+            "park",
+            "museum",
+            "amusement_park",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "East Jakarta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1572355,
+               "lng" : 106.9084208
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "6ed246aaa288a752fd2ec2dbf4abd4c2bc618e94",
+         "name" : "Mal Kelapa Gading",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115076861954284504726/photos\"\u003eAnton Volkov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAzZ6Fx76SKNbDG8OnRkkuxaRWOdEF5v6IR8WeViMDA7blUjnUvFvgyM9bYaHn1UH1JlGeLQn4_j7jkdEEdautEV-3MAAAQxDcndWoELflorcAhuFVNBvmRDXmlQkyIpRtEhA5Zqd9OMreY4JLlg7AQAPZGhRB48NIA3e79yci9nsCQzhJjK8NsQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ79JrFTT1aS4RWdLQsyZ25lE",
+         "rating" : 4.2,
+         "reference" : "CnRkAAAA0z5TWJnVpcBsKm44Gn57BEn7qfvAD_28ygKA5N3qQBXstSudHxgMIsetrO7YHqiq4Ths_saWKBxlZilFGF1SpFFEJoCO1kz15p3_yelK3Oq82AHm-y5OJ03aKHXgQ3kuYxC_0RtUB1qAFa1JrndmFRIQQtH8aBre7u8B4myrp7LzChoU-DNa8aJdEbHB7FuWdQQ5FgdVd78",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Boulevard Kelapa Gading Blok M, Kelapa Gading"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.176402099999999,
+               "lng" : 106.8215901
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d9023d9db38b0ffb5a3d04a9afccf9ec03f60853",
+         "name" : "National Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100734482151972715361/photos\"\u003eTasya Nabilah Putri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA_KCdlLocn_gBoLeLR1S2w0NIzT3pPrK9QK4PpH67hafxQ6MwtGITxiYO9KvGH-h77oj3oJ1EohMjtiMMo-OdLFCMiZpLwGvqvYW5ycdlq4Eb3u2EUuOUury061j9w1EqEhDK_W6tn8xYHA4DYUhQbWQKGhRc0z6Zur1_XgKtbCWsR-RbziR2Zw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJi_JxtdT1aS4R7Vhgb1ZBFaQ",
+         "rating" : 4.3,
+         "reference" : "CnRjAAAAn_rxzFCoKba7X7auuotSA--s9VAM3aWQykvFEH6mZTqPmCzrMICmDWec7cryRvQ9vCcd-diaw_fxCTBfsbfAaSzDeTt2FoDH6d-dgQzaXE6DA8p2rPpESS-VcqeUsja9U3vc7ZvORm-FC8cLzomSAhIQNPtvIOZDFCAg3gQ7DNR7MhoUq-Oy6SvTmrveUWiKA9sUqfQSPaI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Medan Merdeka Barat No.12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.135199999999999,
+               "lng" : 106.8133
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "5f5f5f07344fd42934238b3164291763339e9e5a",
+         "name" : "Jakarta History Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115742200769259092474/photos\"\u003eBrett Kwong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAwtBr_FIj5pI_7gD0e6HzU7yH5BzdEowJcxNHk0zXb0zHy1W7rFcWPaXqYs4RvOuPr4gr-g0oWUIclPBH7uNYvL0g5bM-2XFdSAvU_8mHdROXdfR6Dieros58K8Ql2Fq-EhDlyB3krMVAE4L1C_cvot03GhQxgFwpZGBkJyHM6Y-SvURpa0uXDQ",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJfaWSQv8dai4RRQeMZy0D8BI",
+         "rating" : 4.2,
+         "reference" : "CnRpAAAAyF0lWwLDtC6nFJlxg4hwYwo6oDueYPeBzEvJ8IFN-D29CmatzYpUJv_cuOaf5erjrKdti6fI4MPWdPp05tFT45CSbh_6tzZMIEKYS0tYqTFB0zAlWYBJCvAxzWQxijLw_n5hy1xg8pKLkXqBlUgW9RIQ6ac2OKduy3McsKqk6MSqahoUgMmbCd7j2Df89zeGVyw7GHb1WXs",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Taman Fatahillah No.1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1932714,
+               "lng" : 106.8219954
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "082793ad2b00c029888c636dbdf826dab729c8d5",
+         "name" : "Plaza Indonesia",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115076861954284504726/photos\"\u003eAnton Volkov\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAwaXhagBKSEZb2jiVIf-ewOUitbf3AcHZWcIyuvev-L5SH27RebwBMfqabtbbKMn8LiqyiFZmQPiLqXrJp83XpLemBME2lrb8hZbjILa6VkN-DC-xMlY0nZC_wdWLsJ8oEhAG_7nPS3045jgIxQeZlSadGhRQUG23_Rm1zP_48Td6h_C_TgZOkQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJAaQtdCH0aS4R0G3h7crA7Oo",
+         "rating" : 4.3,
+         "reference" : "CnRjAAAA93Z_-4ZeAQTM_KMZqn9uf2DsDZ1YiCzuycA0kiJhQHKU-IES_hAzLbIVTOCMGyyoS1TBa8D34MzXlIeaNZvOzMsBtPFIjnsDzLFiNWOdWOgWTNj4ALxTvsfJ_Inum5TYKTqlxCapQodNPVxP7xb7RxIQOISLlmyZAX65yMghdtJ58BoULRPz8ujFZjn-x90Id1oaMvyi7X4",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan M.H. Thamrin Kav.28-30, Jalan M.H. Thamrin No.28-30"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.5976289,
+               "lng" : 106.7995698
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "017a4604c468093e6fa804617c7780e8c61f9615",
+         "name" : "Bogor Botanical Gardens",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111438978682880013218/photos\"\u003eErman Atmaja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA5tAETjHwKEzcfTHFeK4pcsOS7ZmqMC5rswRZZ4_mgKj1a5m_n1Qq-tgbUDX0PtNnrgWjEY-eS21Oau76IgDxUWCWQCMgkiwOwcBTcROgxJzcws3_NQpuvn4FcoFDi5epEhDVBSaVm462NZTeynHDV--xGhRZ4HiAN7hEliRdgMZSzJvfZAd4VA",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJu3qmEsTFaS4R5X6jRWs88nU",
+         "rating" : 4.3,
+         "reference" : "CnRqAAAAeM2A-tyfG0I90E87NRDzmuw0gy40dQmdOFQZ2RKHr0UV2wXEI12Prd-tBkaBD7-HQOsLDUDC-hmtX__3N9cUBQVfY0HcOLr6LDVVEclnvGlYVmSCWV9R3vJ-R4mTeb9DjWaBpan2Mpr1l3HB18ATRRIQFJh-DEd68VF6RwoJpQK_0xoU2kWzVsJchdXYBobJ_XD7k7gPar4",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Ir. Haji Juanda No.13"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2256049,
+               "lng" : 106.7992178
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ee1f8827d575708d59bb2627f8213a4e2b217c88",
+         "name" : "Plaza Senayan",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104994647883992950750/photos\"\u003eMuhammad Faza Abadi Udayana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAntcr_5SeOnt5MazGfcqWUSQPeHQMKkBTMS-_CNnzVbRiSW2H9mxiABNSFPusE64VZ3MqgSe0ojrT9iQWFRojMYpi7qi9950yKfiE9TFECrdk6HoHIMXznwpa9c_EIFSUEhDRg0f_EnPQaz3jPg56lQPYGhR_XzcZyo-Mz-NjMnP5PYnviSIF1Q",
+               "width" : 1836
+            }
+         ],
+         "place_id" : "ChIJz9G3IEnxaS4RlKx17x46jng",
+         "rating" : 4.3,
+         "reference" : "CmRgAAAA_26krzNLThR1E56RtmJEM4F6J4eT4SCO4r_n3IpSwkV9_d0O_pe-dj1unju0TnBLiB--MQqQIbWWrlaCOINlPS4qKkfzRiNrh1J-tCu5F2mRFMkGshNRAombnSVoTm7tEhAHjbA8N0XwRYPYbZ_cGYBMGhSFGNz0uSD-2F6epJyVToMqiyIz-Q",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jakarta Pusat, Jalan Asia Afrika No. 8"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4117055,
+               "lng" : 106.9862528
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dedeabf64f274e6108e126afc21baa15706d00ba",
+         "name" : "Taman Buah Mekarsari",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117916377715877222441/photos\"\u003eRahmad Mulyono\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAANxgaFy95_dv_e-WyVcxtqBY43hIN8RMEgv1u_a3I6WQoGyPF9beOe_N4Hz_ec3GYa4bg_GArqmfHhz722VZYx2OzYLfwe-vCwxEg7vfYHGl52JLOKzR9yN-v2IAJ5nKAEhCzKC0SOaThhgPJ_HIzQikXGhRkUmqHw5Q3jW2YxxyGErX4vo1hNA",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJU_NyYDaUaS4RI9uZZuByNZ4",
+         "rating" : 3.9,
+         "reference" : "CnRoAAAA5ePQLWWsUnDe5WHTYHqeFVqRqVAg2JeR7uCvThH7X8oboIzSjMqq2Vblpumap2sS9jXdM_V4pVC3WB8a8vjA4ANpJPWclPmnf_Sgo5VZbkqJ0bq2TRWGmSens2jw0g7zRlpDbrl8HsHU-u8l4mNvRxIQo1Ya7C3u17tRumjRGad4dRoUsKOUwc64viZXd5bfI2fBtIfMIik",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Bogor, Jl. Raya Cileungsi - Jonggol Km. 3"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3680739,
+               "lng" : 106.8295587
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "5d00a2e135a7fda1d11fd813606310dd2f6c59a1",
+         "name" : "University of Indonesia",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107357597561486093247/photos\"\u003eNanang Sugiarto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAtX2gi-Hd1pu9bAhq55rDmFtVdZXKeGfBGOujtRmuwjqpTq0ngTetxZ_8iWPk1u5EUhHJlIRF3HlutslqAGY10iSfnkmZIxdM4xvHKGetf24dMlI6_FcBWEocEJ3ZHbbKEhAx_wpOP_OOcP4RbaVP7lDWGhQjp4kzWU5u3Ly-hyngH4tUEJu93A",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJhYtOgBrsaS4RB-p8l-GAv9c",
+         "rating" : 4.4,
+         "reference" : "CnRrAAAAP1nGtdF2sT5MGsrCnYJRa9ehGy5iY6ZmVTROuqfxy5wUL--1eIDQdjfYbZ4ttggQDFKT6Opr8QiLolwKPa6XRHeX_rTNt0usHQXAHKQMmQML6b6acL0qBNL3OjDuIkhu0IFLSrtab4S1tHkshtYgYxIQ3VDoJ5cNBZV7N9N7bwKZCRoUagHBhe3goPLT4StoE0YqHem-BXI",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Depok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.190170999999999,
+               "lng" : 106.839136
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "d30babdff23d7e0efbcc1e7b6b48f56137078012",
+         "name" : "Planetarium Jakarta",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107081106877295251813/photos\"\u003eAndi Wangsadijaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAFn8GMyuwQuZYthKh42uzUbs1OM6pCIqahna8tu5QqKXrk6nK156AxxWWlBgMVDFEaaL9WsFkWLz2K4VeGGISXTzZZ-k1JnBVXeDfERCGBVkIupGtjRo0VxB0NH3k09rIEhBKQ5SlDREkgjuYG0G_lxFtGhQROPt7TvqVP4Sz2yHMniLQPkbbEg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJnfJe3Tj0aS4R4WXkogVfcA8",
+         "rating" : 4.2,
+         "reference" : "CnRmAAAAN11pL9rDuzXZm99wPbQWsg_YbW92J1-drpMrIjlhOyHbK0QDUBnDU6crRgyEnEEFUh8mix4BVrdodWPFRjecQbIUDJKfcUwF2I8J33Kq_97ekyUnI3ANOpjE1qZAoov2l0F6qrYjm2n-aoUvZeP9uBIQ_toq3OmK7N8eRn_APZc8mxoU8GFk7deMNGyjn3ybG6gaSniRMvU",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Taman Ismail Marzuki No. 73, Jalan Cikini Raya"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2653129,
+               "lng" : 106.782764
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "83630fad916a1624b0fdc5a22c4e521e2d263076",
+         "name" : "Pondok Indah Mall 2",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 487,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106800666468803131753/photos\"\u003eFendy Kusuma Wardhana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAArFnphUKVIbLGc1fdJ1PktCX0gkm0cvdejW-r2pwGNRcXTzOH8aaKU2L_Hd6Na4ityFwJUGytNJe0fwtcZZ8MG6cyeqsS5r-EnDEtNgED20yCDsIlg2u6DyYPosg_YxE1EhDwtK3rzXujOaSm9zgOhhWlGhSw3j0RiA_XqThmmFCKmUD15EVKhQ",
+               "width" : 650
+            }
+         ],
+         "place_id" : "ChIJR-779KXxaS4RVKhOPBE3KGg",
+         "rating" : 4.2,
+         "reference" : "CnRmAAAAqjWTS2aPa_yl32gn0yLEjH8pSrVC4MnBCR1_QD8Hy8k0odT3atwKMVcKeOJVJeLTABz48O9QOwIqMOY1iD75K2BEI1EzDXGOyxpRj7c0kcG1vyZ5EGErhFRdz2rvBdjnnu-Y9n6OFUDNHPiq6-KdPRIQMZmlJRvswq3jP_lHoWv9ohoUvofNz4-v1O89Ov_iApy5h9eKYfM",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Metro Pondok Indah Blok. 3B, Kebayoran Lama, Jakarta Selatan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.17017,
+               "lng" : 106.83139
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "d14b55529b6b0a32fe49f65822c85be7d8a5bfcf",
+         "name" : "Istiqlal Mosque",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 695,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111227463075038962642/photos\"\u003eIstiqlal Mosque\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAUfl81r5EO5e71JzTuSM78wRN4hOvEYduKih04ixrL6WeplhJHz1A8pRqXE0zKPS2sLcPUZG_e6L2zO6OFeWzHgI8P_wlkoRYvokmHqSlgaVhmHOJwx0Jy5bMOWNeAX5wEhD2jpHNdH0-KSUcubhExrFzGhT-RQw6KMFW4W9ArYbwrSCQr3vflQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJHeC1aM71aS4RbAyE1ULw-so",
+         "rating" : 4.5,
+         "reference" : "CnRjAAAA3_ggVTC-4Vjd2q5gahz_1ZbPGJT62cYwm0GuBPLP0XJdYCLCqrlkfZSG-f-EfRKmSwtZVJhI7LLIIC2YNGm7I-4mAEVfkP7IjdI_-8Y1AW4ieOf5ll9PYKD06vKOFT1vXjhaZjyZjbSDOC63LUhH7RIQZn8IrXH9QrzT-sUIK9j6mhoUrIRlAv798hiEKm4OkqWc-4V5-bQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "mosque",
+            "school",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jl. Taman Wijaya Kusuma"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.224618,
+               "lng" : 106.8099103
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "77bd9e5c68d43120a3e8d746aa4393bdb9df6384",
+         "name" : "Pacific Place",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107467712316138658999/photos\"\u003efirda syafira\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAANHDFWtBAwKfr8zv-ZKS_MNdzncQfKuADq0yy3QnOZA2iTI83hOLe3brU8554_EmNpIomM4qX4X4BwhGCawTdbTeypJZWe4IXSF0_JulLhYFHaAo7mzh8CNx_RNXL7rCkEhAr_OrK8gYWWR0CJhFTIGXmGhR_-0z6FkQpRS-YEksgcgQLr3Ha-g",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJK-5KEFHxaS4RzANfS7MIpsQ",
+         "rating" : 4.6,
+         "reference" : "CnRhAAAAklnXGOr9sdNORKe-I5uBpqA2cjfUS540vE3DClmzeZZ5tpPojx-ylVbXDzScOpMuhjJrLKIMtGWE9EoHQlN2gXoJwuWN6VgEiFIWp4HI1e5a9ZY45P0HfJ52jdUeqyB5JCbcF5_U_jjxh9LYgeQH1BIQGEydKODjXYdfUgyiPLzhthoU8kaBJHJUBHyIO-LRyBPKIsbk9ko",
+         "scope" : "GOOGLE",
+         "types" : [
+            "store",
+            "shopping_mall",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jakarta Selatan, Jl. Jend Sudirman Kav. 52-53"
+      }
+   ],
+   "status" : "OK"
+}

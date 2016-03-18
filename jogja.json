@@ -1,0 +1,566 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CoQC8wAAAAwzUFI8jbkbdyaKYBFeMCFNL8aME4TV_y8lO0MImFy_NvhMVGPvs9xll3PO1BLRSCyaB2wq3Uf4Bv9EjDrvmzsJeO2_SfJ9xArIs_g11oXNbeqD_0FqHgIf9FdWRh-ZIGo7YvpWZVzxVlACxTTLyO-wXjOevRe0qGEHXfoWvpsdfmQMyKvNwX6CWeMJa21BwI3QPc4F5xUe3uVJhZbKVWWZ6QJ4hY1Lb9Un1YtWMmQdHDKIQjpkx9fBw1k3kkIaLMu8fKSOpVmr7Nb4IRJbOux9JMEYHSg6448AeJabMGfuWTNpF7E1MTIv1Y1G9-qRNhyvRuCKYB7PKeGgozwnY68SEH9ZGYXWzvwsiBPM4JCrDzUaFLMe-Tn573Vx1WrUahlGJRpwkUlk",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -2.2179704,
+               "lng" : 115.66283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5478351,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 92.171808
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "44e04bcba3b748e55527a0af2769fbdc8b2b3403",
+         "name" : "South East Asia",
+         "place_id" : "ChIJ1QxyXmCvMzIRkRstVBgPpyg",
+         "reference" : "CnRsAAAAXGhjwuzfqbSOYCTIlERCSDoFyP2fcg_VM1BVFly1WaXfuLQSumxzh6jLCW_yzy-AmxUpI0gq9PU8IgB0IzGM1c75AN_pw5fy_qIHWopFs6Rdmfp_tU-up7DZh-YSlBo3tZDO1mozNxrR4zK4i0qzjhIQPcvYq7zjfh99ZoUL6fmgHRoU4-7DewRHk1w9UBnYfi0Ab9Ic0Ek",
+         "scope" : "GOOGLE",
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.752020600000001,
+               "lng" : 110.4914674
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "0b20870a70ba728d1eea1b08fef7cfceedda702f",
+         "name" : "Prambanan Temple",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105476318225584271545/photos\"\u003eLucien Kivit\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAy_YOtOKO0cPgA19OkT5D7DNl2z63KWoMiqd_FuIDvQmrxtM6ARxmzeuydvGHMCjM2eUR7clcd7dop7zNlDmc4FY-iF93G_0fl5UQLHf9LfxDcYWDyNod3XOtv_gznLZvEhDWpBXLpsr63zZlhCIs3a18GhTUng6FInwarS7LNECbVgO55-5_AA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0VnY2-Naei4RLVqVJTug5xk",
+         "rating" : 4.4,
+         "reference" : "CnRjAAAAL7NZWYEn1lIFrWCjPTN-vLCfrGbWVZSh7B0U9FWW_rpjsS0s2dGjaPBOENFZJXKXd63YuJoy0gjvDuejhiCj7XaKsF6oM-9VpUkVnhX2U9ylI2FE622GljNFyEmj-41-FheSx5LrSu5a-6i1w3fzGRIQJ5Ts2CmjNfZEnVxW_RihwBoUDFrMdMPCb72vxl2GABSN9Zz0TKE",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Prambanan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.6078738,
+               "lng" : 110.2037513
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "2e79c29c1b357916d91cbdece3c792d92f17ed3d",
+         "name" : "Borobudur Temple",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112215573074952415971/photos\"\u003eShendy Prio Wicaksono\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAjdPuNp8q9g489K7Z7t97StcluzbQjflVlWxU2ls6lCX_jjMVtC44KuOYTm4z8qXFWTh8Zf3Bv0-o0KKHa_V_mdCxwnwq7Yi4aycMjvZnIRHu5ysAigtwzAZhfebxy3MyEhB09DxRfF1SAqFO8dT6wuivGhTmaqxWY7uGq6ismxcpmZpS0oPvjA",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJl9anCfCMei4Ry8NNdDRD0w0",
+         "rating" : 4.5,
+         "reference" : "CnRjAAAAEEutKs14Qa63MNj47lqis_b2NgxFCwDYLlQ6PGBG7TtAbtCeEi5w418mIg-r2QPH-tgbQKGalRbv5vVeUSCxDrhq8uWDdbgZszZ5FpYNN3PDqzCg-xcni8hEO4rh_N8HIwVBa4zp4SCfJEMVbK2HGBIQVApWz3rz8W63VAmybUDkjRoUgikPy1h2FUW7Fp9PwSHZmsOh6rA",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Indonesia"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7713847,
+               "lng" : 110.3774998
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "7bd51ef954c4e0beb53cfa6904521785b422a15c",
+         "name" : "Gadjah Mada University",
+         "photos" : [
+            {
+               "height" : 1544,
+               "html_attributions" : [ "From a Google User" ],
+               "photo_reference" : "CmRdAAAAM_LJOOYYGI5PBvYIxMUn6mVVbJijKOKD-BCzpMjCSQdDdSplrZ_D45ArtJ53-gaBiu1K7V9O5fV9muoztmEdl7YW5NbvknLMtfYqeRrFTm6MoM8j5B0ya5yg9GCo4jS4EhDqNKaoNZ_ALypNZNcDq9iqGhTdG0LsKU1aqSN_WBh4bgEuJUfnpA",
+               "width" : 1059
+            }
+         ],
+         "place_id" : "ChIJKZdy1LJZei4R5Pg0z197Taw",
+         "rating" : 4.6,
+         "reference" : "CnRqAAAA8VN9IYoCId9RQr5byYMlrpZVA4U3daigtf6me64r8SDk39-AurWOM1zxWqK7daDSQEqmQ4OLhYPPTKKO4zOrxSF4dcUHPe1ceDXMDa4K07CQfWxpSszeCAX3l7GBolwtzUrpnkgOsWzHm4m2N_jJWhIQhefvUdVbYquyIei87pkBUBoU7N8HPnVJ8HH-l7nhu0jNxpTJ16U",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Bulaksumur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.787683799999999,
+               "lng" : 110.4317613
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "539bce9df8ce285c7ddf57f94cf871b4198996a3",
+         "name" : "Adisucipto International Airport",
+         "photos" : [
+            {
+               "height" : 1071,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104688694918517201214/photos\"\u003eАнатолий Путченко\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAtV_eghVcUHArVuelGdKrxk5ZO0hciLCbX3vsaGQTdfUfFI68vMKWf0t_nuCuo9wpHE9xXorA_l4Q95B0x-GbuwPwoZSDAJG7OLnrOWap-ZHWrYBg-97Ix_uwwMZCTDBNEhA46XEagnGNCMSAb86KRRCUGhR63XwiWMCX3u3kwQ2xrQT7s-klTw",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJG9KV-alQei4R8D1Mxnd6Ag8",
+         "rating" : 3.8,
+         "reference" : "CoQBcwAAAFc45In5VdKRgkrXPox07CGH05fVNHkRZ1HHmIGW8B9Qx9JI1IlyRaFuFZFboqhN2AfJ2pm1aeSVuHuMLcDGimVmZE6iUD8DJOQDgfXGuvmLS8HaL4uiYJbpuvneMmcp347A21HqwqWFZaB6HNhHY9E_-1NlUqvBc3BL_RwFzcdtEhCEbkrgJuQBn2lBOcHB5E6eGhR8F402P3-N_DjkkpMIob4F-HfEeg",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Raya Solo KM.9"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.786049299999999,
+               "lng" : 110.3783757
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "bc63a6d8934bedcc0f1e1d9dcb33adc03096c259",
+         "name" : "Universitas Kristen Duta Wacana",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107742738348537699890/photos\"\u003ericci fernando\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAUFMH5T4VWtlgH1JmHktB3y3tHUuJllNQVf1OEe-_8V1tGzBhteaby3mzXIzPCSZdZ6pIsbOdpqs-81efVeAvj1SzhvslmcJKBzeZi0ux4Q0RU8pIJ1VdlrfA55klSLDbEhBFTRZGYolx69fddB05TZ5zGhRYLkJ5ZNJlMq9kCwXrv0fM4ZzMdQ",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJ93779ihYei4RDndAj1jMELc",
+         "rating" : 4.8,
+         "reference" : "CoQBcwAAABaVVx5AMQRjRyXMjz2Cd17GI2nTTpU-nB5Kp-2fAMMVIHi0QqAPPzTGKxpbL689d6D5gycueFoxZEjcGaH2gb84bF5Xz9kwRV0vUfZbRJl3556QpvcQexM3_8NAxNlRr_F7d5zH9Qr6XdY5MVOm9WWhk5subASpFABKh2QO4fx0EhClDqT_B9Yj1DaxsM4bEtt8GhQKk_ZXSwjZ6Nr0IkvlGWcwrNjckg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Doktor Wahidin Sudiro Husodo No. 5-25"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.750561800000002,
+               "lng" : 110.4181997
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "08ab33bc5ad33849fa1f4953184aab5ee0008579",
+         "name" : "Stadion Maguwoharjo",
+         "photos" : [
+            {
+               "height" : 968,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115153487873298310578/photos\"\u003eDedy Hariyadi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAe47StABalI93EagVLgZPN8XUGJwxFkeLC0s8o_N4bKduYQycq6jHxde6F1N408bh5WN1rqvA7f8Alxv1TyAM4b7Ne3PK962UZa-jcgBqkaUe2iv9LWo4Fa-MKjEmu9efEhB6VMMizmJ3BQl6_188gVdHGhTMObsm754VWzhg0SjwulACu9biUA",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJqY9b7nhZei4Rr1CvxnBiB8M",
+         "rating" : 4.6,
+         "reference" : "CnRnAAAAFV2G0Ll3cJRUD3evk7NjhzsLXCZvIpSVNAuQM01g_9-aSkP4Y-af7-DiEaPLtMI-xU3nRV9Eyp_uWfQQqvNknKylDYv15g3ZP3EgT9Yz66rm4Gx5VnuR8-zh1iG3_2Iq6jtzArS5TRQOE39VOrUw2hIQ7x8e2JtiH5FJp9Ml4K7msxoUOBycFYEyXZivc9RUBo_WtUAACS4",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Kepuhsari, Kecamatan Depok"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.771960000000001,
+               "lng" : 110.362537
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "cdc7797af83c63ff01cddefe94661020d5c28d0e",
+         "name" : "SMA Negeri 4 Yogyakarta",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 550,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107884544190761318268/photos\"\u003eparwanto ntok\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA8BgLnsqpO6-1DwM2dnkSs9gK4pJOg47qpTuT1uYApCNE2SqWWuZsSYpHWOsomfxVWpFWf9gLdqENa0gBzLPOd758MMKVHXOHJfXVqjkEfGlTTgFYdNQCGP0BMzylg79mEhDk5O7Usd_jfgxOpX1zrxtNGhQTTbqBSvpFJjHJQmhlnKUL9o61Ug",
+               "width" : 733
+            }
+         ],
+         "place_id" : "ChIJpZ8i60ZYei4RHZu5zOHTxWo",
+         "rating" : 4.5,
+         "reference" : "CnRqAAAAjQSMZniOxCNz3xn2OlSRdvhSBd8IKug8xtf0bnlfy1wENiB619lVCEjiI-5sCrCvTfRy5BRxLeIkZR9oyuMhuHiarqDtj19BrJajJQWyoPrfd4OotQ_hT7ZnLTTUtM1LiVJp0iDxmKwAtEsifS6HghIQJHN5elx0PnjyfV-D24_zlBoUkymBMcOCBhTMNKh8_jsPNiCOgbw",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Magelang Jalan Karangwaru Lor, Tegalrejo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.778064999999998,
+               "lng" : 110.353226
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "006fdad0e5f32bb596f084a63997caf7850a38ee",
+         "name" : "SMA Negeri 2 Yogyakarta",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 930,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102534037187553214909/photos\"\u003eSMA Negeri 2 Yogyakarta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAbzkU4Qr6xhg_1E67zlrAHWIseGaQP1-WFxiU7G-YtzWXEg718AKiq_7ObGmDJTgD05w7EQ4GcEP9q-wXfMrxCYDwbAvk3NpdiVb30RFiGioAYSiV1MT3nlK4KfNlsgE-EhAPm8L6vvKdU056j3M8UcYmGhT4DvNv5shbadPlxEEC9dIXxC5WCg",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJFyZyaxVYei4RUmraUukVOG8",
+         "rating" : 4.8,
+         "reference" : "CnRqAAAAKf6ZQlfUcN4K4oEu4ygPMgRTLY3Ui0xoinXvEJZXonFPCvsE6_3r1rI_WrkyBLNOf-NvsU66wPpxwRkjc1oR1Za_dMzSksBFf5YU0LI8rtVZOPdj3-y_BqEtC4NKk9S_GVcBVbrhiiODBtBq94GnOhIQklCYBqMBH2N-A6w1_AvizxoUtDzIpf2ejP6KUWg5lDPQvK3zQ78",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Bener 30, Bener, Tegalrejo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.786316100000001,
+               "lng" : 110.3691822
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "6a162633c3253ec16b72d60a2bed7a2fc1001787",
+         "name" : "Masjid Agung Syuhada",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102191558094665245604/photos\"\u003eSandi Rifana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAMii5w83e1mNaYdtKQu9ZKJ_-i_AjJBBx5fMHI_gXhePiybQqdZ7UMP3b0aRpo5tlWUz8YW3U8IYTcxaUGE2nFU5wSujN1Osirl-LBkj6Q3wkg7Pog_OqrKKM2bhEEPaWEhBtV4K-xe2FBmZnyBgUH1zFGhSkfbUpC3LbctvNbkSDqRyxJKu5tQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJq_3wSy5Yei4R7wi6RNFQfwg",
+         "rating" : 4.6,
+         "reference" : "CnRnAAAAR8IbOOW0AcKIRJFuxcq9NOCKCTNpK6uTkljeLFIRxW49VhfvFskNa7yy_Z1sZwI-Dp2ksQwfw31966CFVWfMMl6PGgvjq_RuSF0G1ZqfjnAOu6VYiC85gFd7Ohtknn8d9EEZU2nOQC54wo222xe71BIQQiSavPWeg40O8dyHoI6NIxoUINvxLU7da0IqjTkCR7HsJeDhL7U",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. I Dewa Nyoman Oka No.13, Kotabaru"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.767284,
+               "lng" : 110.4723505
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "ced07e1c76cbf15b79d9cf01e93697820b4d3156",
+         "name" : "Kalasan Temple",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107220316024618068115/photos\"\u003eRere Rayendra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAOuAOC2pDY9UfNkcdxkqz-SPAMp7n9X0ZqURGBvdVRMlg7fK97u-kiqmlPr3i23rKvIAUO_KAxHQQtw_n9r5xcNMozOlbDQvAtPlbteMmxMowbIIV23I0QWLrJ6jT5_XsEhDGJHeKxJyKFWSItHxRSwQsGhTJc-aEglK280K3ld1-z8XWzC4-fA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJ54LWPV9aei4RwSeagiE1TnQ",
+         "rating" : 4.2,
+         "reference" : "CnRhAAAA6qr4hG1YAbvNvQM3jivlnDPQyI5wWBtxzRjo-ldgUV66uV_lym4Wl-aan0sQ6ntq3ZIlrkhcgVBt1sdyr3wXU0LDl6UcRQLhoP3n8-T38DTpVHqzoj_xPG6UaooEegUYuayUprKHaZ_sx_YhQy2BtRIQigj2DXs7_J2rnfBNDquJXxoU5CN0D0vHzSs-m0StoEBx1k-tq-Y",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Yogyakarta, Jl. Raya Yogya - Solo, Suryatmajan, Danurejan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.8052845,
+               "lng" : 110.3642031
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b1dd33afcbd3c8aa49b7c84d52b8ebade64930b8",
+         "name" : "The Palace of Yogyakarta",
+         "photos" : [
+            {
+               "height" : 1134,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104356932821816639046/photos\"\u003eKeraton Yogya karta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA7O331DN_Mz5KV6Bm-NynQMeQz2CCi7_6S32MmvJlZan_GYFuNOGFUd-6dfd8jumexRWkWkqaxocC8EvzlG6JFENH70e7Ay6ku9gfMo4Q_u1jn2FvGYtIPlbGNZNcTbE0EhAnGp-0erDBAP4fSPHsd7fdGhTUpZTNp50dkemvaHMeSSaWLxmGYg",
+               "width" : 1701
+            }
+         ],
+         "place_id" : "ChIJ78cG25ZXei4RbCcrBc9xUjk",
+         "rating" : 4.6,
+         "reference" : "CnRrAAAAmHvRY45pGPy-zqZqirsdCWK3mpcMHRYd2di4aAU-3LqpA3osrHNWGWWCT9DhS3Onm9ac5xQ5bN1IB0nUGs3vNTgH5-ZuiX_dUtTdwSRuNsGobK5Cda9oN3lQ-4-bOfGdpuyRLsTIsJgKOxi6-1sAsBIQ_pfWKFONWL8B6EyAjOWAFBoU9yqmzf8JAaL4_Unc_uLIkxXERCI",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Yogyakarta"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.782534999999999,
+               "lng" : 110.377723
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a3b0de17dcf9de940130a5007ff66b8b967f55ce",
+         "name" : "Hotel Novotel Yogyakarta",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111765178880596323282/photos\"\u003eHotel Novotel Yogyakarta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAVJxU6YU1NNsLDi9XzXKi3zzbcIBED_7yYzHLrX_HDd5gWKzG9PtJLxCrQuQfPpT82uDc2abvu9YqmPO4EVxKAGBJ16Qy5eguSul5nE9imUjO5ok_BT_Ihgl__QrWZuoxEhCfqJfKMrVigH1od515MwKdGhQxcP89XuczntPdL0pDuRcZHuo-9A",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJkaPNMjJYei4R3ci1mdlX780",
+         "rating" : 4.3,
+         "reference" : "CnRsAAAAagM4cV8Fulb-uGeg5OCWzOuOAn3muhmxPJH783gG-dYS1m7cxujK2ixxumgIKMacRIMPRTF1tq_7hogDl24IqFC3LnewEve43ObJt6ZPf64noipKxCX5G_Ba8koyCQcXkjSa6rwwr8z9Xul9UoTQRhIQRmqdakHP1FuyAFQQ3kawHBoU10NUYbXJKxqccdrLkH9bYq27sFo",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Jendral Sudirman No.89"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.5562672,
+               "lng" : 110.4381254
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "ec4c33b27b83ed1a633a274c1d780b2a7f0a5a26",
+         "name" : "Taman Nasional Gunung Merapi",
+         "photos" : [
+            {
+               "height" : 751,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115912198410652047923/photos\"\u003eGalih Mahardhika\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAV83ljHX6QmwxQh2EQBFhyXND9LNvYe1vEeaJyu218ueSdkCZ6r3xIOstz2_iLk0mB-PgY-UL8852qFdeFvG-6ZvO2SuN7r8uZ3RPdNHBi-ecPhXTy43Zyht4aEKx1huWEhDKJf9lqMNY8wcCqrmhec-yGhSo4gsUr8zVjJlyjsdDpHb1VrYk9w",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJif7Uh65mei4RTCrFC9i8AVg",
+         "rating" : 4.3,
+         "reference" : "CnRvAAAAggDMXOGVJBn9ycI-_zu68gqJglQBqOJ8IHbd46dcspUQlT7pHLgY7m90gvlkvByVgn8GWTaEcM07NeznjXjmBKnli_a8GmuBF33ziz0UsPMoEvIH3yD8cIP7VSIkdu6B7TriGlQdSpaJbBbzrlVgUxIQ5Vi5kcRwFEAs-ekL4NkE1xoUQlkXaoOe_PeSB1OfP0M9FG13pik",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Hargo Binangun, Sleman"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.719427899999999,
+               "lng" : 110.3586221
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "14c9a7938f16c761104677dc412de5ca25d4023c",
+         "name" : "Stadion Tridadi",
+         "place_id" : "ChIJsxWyY8lYei4RXzCXk6FwMQU",
+         "rating" : 4.4,
+         "reference" : "CnRiAAAAK5ZZbWEtT7qfTGaeIfeUfJr4m8OPzgkInTS7AN4SImWPJNSKeK6YgayzbqUqUAMAmP-hCpJZULOUHDFdQVv_-srVZMig3O3dwwNbwJgZnKWtTLlE2Ezk_HBAJfENg_96TnLQ8D7deOoHM27GVWZ-pxIQEKqVNmH7u7bd3I385mdEUBoUquD60-Qect9mMfPZNa0CovN4jX0",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Tridadi, Sleman Sub-District"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7997029,
+               "lng" : 110.358094
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "b8ffd1a035725aa489845db17677296a9bd6e395",
+         "name" : "SMP Muhammadiyah 1 Yogyakarta",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104578373657504361266/photos\"\u003eMifta Hussaadah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAf8O5OE0ZMwFMkx18ITTxktzKegaYiZmvEA7Eo_KtbTjjpPfiY9SxJ6IwPgOSiGCS9qmDoFYuHIoZOkudbkgSJaSv4JxH3WNh-fbnjsLnAe0bLR85un8xU8ldiF_N1bFmEhDa0Ujtwj5AqFLUMHFwPyaJGhQJhJwouENOuCCWAlkFY3fMlxsStg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJvwEWqItXei4RdS97c0ZQfT0",
+         "rating" : 4.8,
+         "reference" : "CnRwAAAAppuJgq0ppI2waOIiGCXD_TTdVGLVHGL6qOHlgrwz5g4jJMmnoM1tfgZtgO6ezwCqVb3Q7ew8AVwLAIkUhxpGdsOY4HGW4YT-oiXWOkBZfkyP95CMOE85gjncAihDO-aRmvJnINeq7ONR4uK4gtMXNhIQ-fiiZK5X3dj2ctZ_II29bBoUDYIUFsWqrLAwG9vKNb89sDKDIEE",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Purwodiningratan NG I/902B, Ngampilan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7824971,
+               "lng" : 110.3697302
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c628d6d2928f6aa7c025304378af865a3ae318a8",
+         "name" : "Hotel Santika Premiere Jogja",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107263245507364243620/photos\"\u003eHotel Santika Premiere Jogja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAn-YSVS2HYOG7bhXU_pPYgfDUworr_HHQDLaMC-sU5G2BJ7GG7uCd0wNZRxRnvdCXrbgZWryZnn3EvK6tKCQqpafwVsf3ivX4-Lu6Hpiu9YatwennuFsCh960XjjIg-85EhDzPr_JKHAVXN4O0X1BGVaWGhQ3TRMKW8BGW2LBxtpdRFhvuFUwRA",
+               "width" : 725
+            }
+         ],
+         "place_id" : "ChIJOTUz_jBYei4RuuBL4lX7g9Y",
+         "rating" : 4.3,
+         "reference" : "CnRwAAAASjMRlh-nJhv10v29CbfC848jY5aFxhTZS-skLY3wqLdJzSjTZ0H9-nLbWF7YJmKb4et5aBjz3HJONQ1-Skrqq4GKyEH8JHWqkqZODnlT9gBWD8RxmPjVethfmGPcgkhfN6tB0Vcqg4-Sm7ZFQSKcCxIQcFv4yRbTfwAtOWpkMVs1-RoUpXdYdZwsMLRePkOB3aa1XJymiOk",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Jendral Sudirman No.19"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.790012199999998,
+               "lng" : 110.3643735
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e41a8dbc3b45b06d80021647147bde7fa70ef534",
+         "name" : "Istana Batik Ratna Hotel",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117747960740685453944/photos\"\u003eLulus Sedyono\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA6PflinRXdmt28fwoT5jFkYZMrRKUbIuxYjfRhEj52wVjHpTqm0p2qADG1Ixscomviv-9GZsFwHdPaq5T7jUFrGUnD43c02Yta-eErIYiHSFaLkDF8TMhiF5C1PohkIg-EhBD3DtuaDWkKoFrxEE5S1n2GhQPAEFtTkUAzHr3aLj6a9L-7HA1VA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJbb0ZxiVYei4R4OSTegB1Js8",
+         "rating" : 3.6,
+         "reference" : "CnRsAAAAvLJ5oQH-YrWicMuEYjUbX1oNL_Y9_vivFXC9L0WB0GE1Fdr2rhTiiKgCTDAnn1FV6Xrtzt7gPnSP0m2TyLkyfikkbyqf9K8tcjod4yqDIJLwPOSyo1NZtz_2WuM477Ka8HGO2C9xc30zdcOyx6hYUhIQO43LcPqmU83bzT-6nlg3sBoUwIC67A1Ph5440YRHBSExMb9yT9s",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Pasar Kembang No. 29, Gedongtengen"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7822574,
+               "lng" : 110.4012284
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "c6208ceea02d5e5fe5251e04a1e1dc2944ce29eb",
+         "name" : "Plaza Ambarrukmo",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100023396957124902555/photos\"\u003eHarvi Sinaga\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAdaCyIKqDfd6yyCITMg1lNAGA0GW2ajKAEP9WAWZTGqAkGZm93CULf642PC-s-Jicgt4cN0kDQ8E4i11rKgNQJP6PiChqrTeuLyFrSeMymnbKTFH0FtAXS11eLth0nyzwEhAwT2w9v0gXjIa4IW_CJ1COGhT_v-whGcncJTDv6ZmCIMS-YVTP2w",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJI2AcvMJZei4RvLOoWjwa6Rw",
+         "rating" : 4.2,
+         "reference" : "CnRjAAAA1qTc2wzDMd982awRFDpixg7Sr2kqHtQKp9_-4WFBYMPd2Ufj5FB3M3GOXlbp-T_fz-_sSwntrgrsvA61qK9hMrboeL5lTQAwD5Ac-basa-aHUfTOzwk4uMrRVi95Zu_KHcreETm2AYrf7hmQaGec2hIQXpSqB5HP25JZdWwCCEAXzhoUmAXYWJK2wkV_oMZqOIEXkhb9hmg",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Laksda Adi Sucipto, Caturtunggal, Depok, Kecamatan Sleman"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.264873199999999,
+               "lng" : 110.4046054
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "cb71fb104ad80e2f6f8a225a8632e5babf221cae",
+         "name" : "Museum Kereta Api Ambarawa",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109277919985742311158/photos\"\u003eRizan F\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAuHtz3QV81saDI0ny7Hwa8zyH4a501LmjUEFry7ra9qV_gvLQhfVEYOD0-8_dLvTptoBpqM0QQr2lWAt7S_sUl-d7ri_cyghw8Q6Hq4S8QPU2GgHkrJt7TGX02w8P7efXEhD9kfm6Rguny6tYtIhV1-mpGhTTm5zcn6tK5Gf17PcehOgqHcwq_w",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJr-HPZp-BcC4R9jEme1Ofkl0",
+         "rating" : 4.3,
+         "reference" : "CnRtAAAAY17nQW8b4EaddmIAlvhndr3o7ATSrQOpxLNYYPZxZBkqlUNgDDGPyWgSBRo4PsA5ZSwumQlbJRwy2gJuqDnDdxCgXvPoOJNbooWILGiXpHuHQVRrwPEQKWjVL8qW_HYBHrL8Zm3cGLOWHe81iITFaRIQeMDP5-DfPCGboiZU8kUksRoU6-crCdmR9uvJ9PrpHknomc6ubJo",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Stasiun, No. 1, Ambarawa"
+      }
+   ],
+   "status" : "OK"
+}

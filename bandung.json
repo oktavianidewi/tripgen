@@ -1,0 +1,569 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "next_page_token" : "CoQC8wAAAG58TAcd4NvAmZBcqfd_hXtfxdMxzB5QF3L3yYkN44t6bQna65yyumk9O0URZtQmILeJ0Zb2kl2WDNJjqAqxgzPGarw57i6gQDKYoqvR0lk-8iT8zVfFuEbiN5UszwNN_9SwNqUJa-6kBsnCprYmg2cZ8DDczzHGs6H6zfb2ui7pPAx4SilhEy1LxHeaqYxExhz2rfhkEk4Q08VLX2SsaI4RhiQSIn4Q33d0asjuR0thCVZLGV6ek9Xw7dygBZ91B220Y5yMp026aBsVWmZea9cHaCK0NP_lvUb0HW65tRvddrkng2P7uI37aoJkpYH6uyUPLX_klRXNz_M-WW6df0kSEN-WenGLsNnHwJ1SxV_NKNEaFCfBoEIXUVMTzlun_W5YKk6aK17H",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.190185699999999,
+               "lng" : 152.8264684
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -0.620719,
+                  "lng" : 170.5023193
+               },
+               "southwest" : {
+                  "lat" : -23.2514406,
+                  "lng" : 125.722838
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "b04895b5bc9e2068cd5659f6e286be452c9f6bbb",
+         "name" : "Melanesia",
+         "place_id" : "ChIJLzUty1pDdWkRQ12MhD9Xxiw",
+         "reference" : "CnRmAAAASpe6FkVgky8CK0AnQSXZGQq1eCvL8OLsuzB1J9YgEXU3dvmw0YD6N56n37E-FFDBOcetoUVkbg5Zv8501axqhMAGQ9teQtqn_txoG3iSJ4QsCUNTt_S6Dm7PH6rgj04wR0RcVrQba8BG0iEV6ibJGBIQ2Jyw6C8FiP80HAg_Vu_t_RoUEMrHlMlB7nPdiKZ3McNMgzMk4PU",
+         "scope" : "GOOGLE",
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.89148,
+               "lng" : 107.6106591
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "66c714db1abdb4faf2cb5f64fea200d2ab11d97d",
+         "name" : "Bandung Institute of Technology",
+         "photos" : [
+            {
+               "height" : 1720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103222430126387958357/photos\"\u003eandree ardian\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAOOsGtoAKXfzRWin8oOOwnNxYBxLpN3mI2epYC6VMADg_4DeBuBKwhyu-5NRq9ambl_nNyGlCQDwUch73y3b39W1lV3_o9tJdCmRoNIGwwP2JBUPCthYjYYfE_wKCUP7EEhAtRWHg4Ywj6fpHsjY6DUAAGhQj-zvP77kXKcNB4Hhl7XarDxdMbg",
+               "width" : 1887
+            }
+         ],
+         "place_id" : "ChIJg7HJZ1fmaC4RYXnj3NzjeCQ",
+         "rating" : 4.6,
+         "reference" : "CoQBcgAAAJw2O1MZh-qQftNV3qj66W8xabCKDpNFSXQxrwtaD6CvAbXW-QoE9mKBrBnvHUvNUnD-FaaYDk3KdS7LZZ5UwNCgFL7PEXB5cEgZ-g_ZD9Pk1XmmCBk-K5NsqElQDwSjrdlhh34Y1ilyGHHt0q5Ua3InIU2kWQCPmsacJ7v2NqCmEhDxhPmNdDSjkyy2wb6IwFakGhTBU5HbAA9qMIHnbV9TCrJL3DbO7g",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Ganesha No.10"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9245297,
+               "lng" : 107.6361938
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "140f6eb93be84be5216fc6f3061297b3826d7e29",
+         "name" : "Trans Studio Bandung",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108592563042273658419/photos\"\u003eNikita Kamka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAZz1fNLcrEQS50mSfYN4EnZjrBnNgfo-2Hdsl0Ia_lWuj85z7tOxoWmX3Ddhno_NyQ5IZA-kvHUuD-8Ed32wP9omyy37iiSLpBhtHxsoZ8mTu6yH9mEFqgDDmvshrFYMAEhB6E66yfIv6Fj_WHeXcdNCUGhTJ_2-b6hHGF3rwH6JYToh_Gymarg",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJ_a5yftjnaC4RCDhdlCUgV9I",
+         "rating" : 4.3,
+         "reference" : "CnRoAAAABuWzfrCJc8CNJlrfJJyR1F75GIc_RGIelGA3HMJle8KxoZJpPHCLSE_xw_TGV8gXpDpZTmGa6hrglrqY8Gg0r1ngRM1EQIA17zX10JyrtUZZmSAkOV8SEp5-5DWiYJHN2YUB9gpUeAGCg0GSpqNXzxIQyciICfvsEAEz4h3xAj5sIhoUQ_vMVrMc2zqD5Pkaom1Ti0OX7j8",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "vicinity" : "Bandung, Jl. Gatot Subroto No. 289"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.921792499999999,
+               "lng" : 107.6103979
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b0c71f951548bd714862c92b4972b319c8498245",
+         "name" : "Hotel Savoy Homann Bidakara",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118293185988736637661/photos\"\u003emarcelina novianti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAc8ckeoGUmKE8O9XdolJx7wDjDqXjvaM-TA1sVOC_49bOUPWNaQf_t31ukx_otvzVMprTY6DV4V4DZhZQrvarOw2DUIiMEQ3yfDp1kVPXW5p_R_yLpW4EMHu8qwkw3yqnEhDM60uiyH9ePGz0WSIX6pEpGhRPLAmgAtd79Zvpvui-a1AqmTcYNg",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJVVVVFSXmaC4RWInA9_tO6kw",
+         "rating" : 3.9,
+         "reference" : "CnRuAAAAuZG1Yi0wudhVV4VZFGPow8w6zE1X0mFArEXmqCN6ZFAOex1xUkRjMH8wToKa83U5tdCwo2xUBN9OunMEc4cCkcIUl9iM70hP-I-XYea1WG0zMoIaM-KNlimecjUKVbX6_AMDnQmm8msJSPvWszVCIRIQmhPtdrkDL7FpiKrj9ku_choUOjX3G8-79quUBhhzHXPE3OE4axg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bandung, Jalan Asia Afrika No. 112"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.926132099999999,
+               "lng" : 107.7746881
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "37b75f0871d44956d2222e5a67f3a92e7efd34eb",
+         "name" : "Padjadjaran University",
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108222462901783140758/photos\"\u003ePadjadjaran University\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAABfUI-GiHnzcPQknbn8ImhVpPNPGr5EkMcQ5mk4rlHFksb12rX6cjmhiInaqkkMc9r_jQIJEYo_kR12y6y8KOCxEZj6ND4p2_ZgB6kTwpVJxIi1BmHcVxMKdyw5uSu22UEhAo4CeN0CDnqszAZq5T1ZcUGhTySApZiTIWMPHe-IeDaIKuMey6jQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJOeIX61PmaC4RQZ6qkh8qGcY",
+         "rating" : 4.6,
+         "reference" : "CnRqAAAA0mOvIhN66u8a0BxA8Oj9qfVht-XISnUumB9WJhxgC6p85QtsWVK7G7pSOsSTq4CSTD1Nfk-_7zVOGmvZHRSAblFjXzVBI9d_PHWnvtMCnfH6yZUlqk-lejIOsrKZf_LFT8Ouw6bHxB2todxGbvRgVhIQp-ysPxdf3VkBJjU6FxOqNRoUZWbPUGBuexwUKcSzMEh9jQT3mtQ",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Raya Bandung Sumedang Km. 21, Jatinangor"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.166183200000001,
+               "lng" : 107.40214
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "50c607401ff02c6489b5a3980f3925e4f025a939",
+         "name" : "Kawah Putih",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103507416422126595906/photos\"\u003eR. Kartiwa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAN7x6KvlxAvoKhMw_D0OdIfJqUTsqjpv7GxTj_uUMwu_hyEoQIaV8h1uw0A7NHStSlmEhUjKOmdA3GBfGZtI4wVLcs5vJMQiXES_9okvQf7ZP-2xSlKjXwl53Y1zLEODcEhDYdcg-TjigHf17K_p9Q4wkGhRUiszfxTGghpqpyayfox1CZwpRGA",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJh7EfRxSMaC4RwjzRDeJumUw",
+         "rating" : 4.2,
+         "reference" : "CmReAAAAlNk739IJAX65fLUCNZWqGNTv9gRA2c9OPC1KqiLCjYzSPkndpkSTSAExEQuzJKBZ3xCPeF0btvyfDUB9r4Fj3D_hXK54IbKKCUg9ofUw_sGWrLH9LQOsi0Fow6uDhPJMEhBwKGONomtkc_Rb9wLh4PbbGhRgeQ74Z3vEORt57y4cC3m88BwTqw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Situ Patengan, Rancabali"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.906310099999999,
+               "lng" : 107.6199193
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "4bb1fb4f8e114731eb0aa65c8fa16cea9a0e648c",
+         "name" : "Serela Hotel",
+         "photos" : [
+            {
+               "height" : 336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110034942163870150614/photos\"\u003eYo Susanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA5kxzV0zm8eGyxOyhiWsB2gdYlQNehZCNybd82qHEJza5-kUoa8_zwJ364mEpGmxGaWRJkhjcxXaLj3hmQuYvIhB2XTbr70ZhMudWJYtVK74ZQCrdBTadrGveYd3NZJ62EhBh3yW_1m3z45EtIGAt14XiGhSDN8lBFuzPTUiZq3D0iPq-7xCgyA",
+               "width" : 448
+            }
+         ],
+         "place_id" : "ChIJUehhlkrmaC4RhmRh45wK-Ww",
+         "rating" : 4.1,
+         "reference" : "CmRfAAAALR9HaKInMT67hoCFEOcBCfDF7-Kb14KHplcaxDEaa0NvmYbzF3KYg4ktuDtmV9lswxuWrsK3EvW1p_7kS6Jg99DFcHHCSNyZ_PrWqcw0bwKTAuIDcDcSrMWBeO76Tj5FEhBaFNpNpbf6hgSFyiB6dsRfGhTMDh95OmsEIZuu4W0snA8YhDDIng",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. LLRE. Martadinata (Riau) No.56"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9026374,
+               "lng" : 107.6167301
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bank_dollar-71.png",
+         "id" : "6c749689c867b1592b7d2841504819c2b2fe9d0c",
+         "name" : "Bank Jabar Banten (BJB) - Gedung Sate",
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110690768263094214865/photos\"\u003eAlvis Nabeel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAADvuYQIyUxC6WQZIC3hLrZKafFLeGws5tR6pF4GeAjvg36jWRLZ1FuZdD-a16IWXqUZ8nLRdjWWp6p3SBnoWrvQys7ty2h_9WYUulWHm-B-nveVYC_6PlY5Y9zO0pzR47EhCEw30NWBO8wMxMSvz0mHK0GhSi0XruMvnSETsjulb7uv_BCozUSA",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJyanWgUvmaC4Rxj36XybOlTs",
+         "rating" : 3.9,
+         "reference" : "CoQBeAAAAD1oxLF7bV04OZIFoi2yyKniF3mTsohRGdN0SFjd0erRlL59BtiAOTdN0FIqCwGBiZT-0Rshm3aEbUemJ17wLCEduU47Gqatbe2jREVwoe2Dtn3qZsRAK7tzsPwULGl9DdsHFTHgXKpnZtoXnvaFE2aFesSBqWUq34TlSq1yD-9XEhDOqDrGa_aA7R-jmIauLKD6GhTkETB4Lp53L01Uy0oYx1XMxJ4iZQ",
+         "scope" : "GOOGLE",
+         "types" : [ "bank", "finance", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Cilamaya No. 5"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.860970699999999,
+               "lng" : 107.5929206
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "da92868169e115c1ebe42b6ffe6ca91e124d83ee",
+         "name" : "Indonesia University of Education",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105646631761150315844/photos\"\u003enita aprilani oktavia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAcQ0YrEMzQBBgx6LElhEBD8Xxb-dpYnDPweu36Ag-BBYCXpd7QUm9bjYeQzZh2c0chKrY0fnLgGh0EFqRdn172ailtlu246e4NX1aiqeFS4i-QL8yM1navUPg3aKA4UUAEhC_g2oDOfmsZ9thlq4HMX6xGhRIocRV0aCQBq6IahXaQzVWrl6xOA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJ_8XCQ7nmaC4Rdp6nEGUiNu4",
+         "rating" : 4.5,
+         "reference" : "CoQBdQAAAA-jPNFIF09E7jO4Aelej_l5ZLNNNKrJbHoePbX0eT2Ow6ShHejwy2M0Z7D3C8Yu0qcUPA4OqNXVudXLuuEeSiykxMoyb-PgMtfOql-sKc2093qQEvP8_UsXH9N8ElaqrWXML-UCJxpgVLrH2tyhY3K58J4GvZ-o-YPvFihcUwIwEhD5EiWwN7zoayLZvvVwgxFwGhTGGzAplkIBQXzMaVck3n3f_4MTaA",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Dr Setiabudi No. 229"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.927555000000001,
+               "lng" : 107.636253
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "44bd36e2fe33307ab2d6e6ef6e07726bfad28eb8",
+         "name" : "Ibis Bandung Trans Studio Hotel",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115814278725450095751/photos\"\u003eFestiaji Irawanto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAzIrxJbDFvUBf4ZRGLDpjHyWhoUT0N04HV6B-G04CXbobGTi1QIuuGVx_-lo3PVeINKaQnUwA-Czyf3LIVdWGXYAJIzVy5CuJv_yMbeSv682wVk0RR2qm6M4kGwAZEnKbEhCebRuTIsqTeKR3xxJcQVu-GhRV63VaiCzyQzIsc-zg_DRs8dDRLw",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJvSoC1XfoaC4RRNu3ybQ7p7k",
+         "rating" : 3.9,
+         "reference" : "CoQBcwAAAG0Eo7HNfNd8K-wC-DQTHg9tAR6ZODFYla9x3TEBi9xYD_tCsFqDM4GS1SeTr37xwYEFy816WfjLP3QJ53T4Kzm7hLqFs86CFuh_ZxxBgLdjUFkCjcvW_aikfPuOsn0gLpVPmv3Pq8reAZoS0MMZc76aVN0ChPir3eUl_nQrFBDPEhBnyxfZ1jG2B1X0SThCMSvCGhQRXQC-uEDyNxrA5PVmcByqkC6qeQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bandung, Jl. Jenderal Gatot Subroto No. 289, Cibangkong, Batununggal"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.917127999999999,
+               "lng" : 107.608253
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2709630fd624dddca6ef8d18bc9474da2c35a443",
+         "name" : "Aston Braga Hotel & Residence",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111504418538992629103/photos\"\u003ePriyo Jatmiko\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAG_U9GH3MHJjeATyEFzPFG2pjFSWB9WGUgsQYfAzXaNY8dgRDlKr6CmwSfLpYY1njT-xeLiOILbzUOMVZI7A457pjGVhmAefsuhKNFxYBiCIqLpwy6GsPoDDsziiXFOgqEhB4NZWq_SKO6XL-QGyNOrhlGhREYAE06vfIHjt8WUX6wsQQDwmOOg",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJuw25pDrmaC4RtBWMl2xzl7o",
+         "rating" : 3.8,
+         "reference" : "CoQBcQAAAPuL1Hhz9qN_Y3-YHV8QWAOrTNnItHWfmInxF5xmjZ4xyfs45W4pmHISL0I8K6LZVyzR5tiqQjGkvVxQIted_u__U8VMsEhCHHoZgdkrsZ3XtnGuIufdyiRGHc6DCjLug8QQHvUYZDqGtIiYiu0I2jDiHVsGc_JZq7olM6HKxyCfEhCoQkNEu3NVKbt_nHJz929OGhRRkRrmPP2J8pgn-_IoJ7ldAAG-sA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "No. 101 Sumur, Braga Street No.99"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9301239,
+               "lng" : 107.5869356
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "89ded5327c03ba97261cf17a2099da47d05f6ae6",
+         "name" : "Harris Hotel & Conventions Festival Citylink Bandung‎",
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104067377013860984568/photos\"\u003eHarris Hotel &amp; Conventions Festival Citylink Bandung‎\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAnja5iXpvt7ZrYe5n7ScpTIIaKjpbuNaFG3qxAzKoq-m233SCJSDwQr3AXvGtfvPwzN3vf0STP1ZalKdRRVtHy6jthl6pNaRnQwbe_dLLbjPhnZcRvYIatt801X-iR_eAEhDh5lNhL7jSC7oEPOVaMDG1GhSLu2OuXRlf5cVPsvC5b_o-a9X5sw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJl4gwlafoaC4Rqlm1G_LLwNg",
+         "rating" : 3.8,
+         "reference" : "CpQBjAAAADNtrrP_xvLt1Mx5t5zTA3LnijKd961WJT0I0K98dMfzUrfqfgvTkDrT6rKL3DRkyWIIuMEoxVUa7Q8lcuFWks8ZqvRq5U2KVz5maDrWeoQZgcr_Zn6dnnJathEH_dSpDex7J5wnWyK5cU9uuw0jkZNWPAHqvFbcTT2Mqx-EaB1dZsnrLWYuotAXFoVul5w61RIQQpQCMQ4r6odMcTOgJmuqHBoUvxFmk7o_R3_FNihduLcAWyiNxcY",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bandung, Jl. Peta No. 241, Pasir Koja"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9156145,
+               "lng" : 107.610291
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "31238612f9748ec0d1abf26c8b20dd1b339d6b8f",
+         "name" : "Grand Royal Panghegar Hotel Bandung",
+         "photos" : [
+            {
+               "height" : 3872,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110265185095842676462/photos\"\u003eChristophorus Ryan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA3PTch9sLribOBy4Xfb8x-ruMgDBsYuyTEPI57UmJvFSmmthrErJjAtkt7-dpGALOu46HwEU4xYSwe5a1qFKjZ-3P9CxSzEZC7ikoj0gOn4X6-Rrt5QIrkAznOKUJ1Sp8EhAUrIsPI7E5ooknXl7jJIwdGhRrNR29O2RzSU3-ROe0fNTQMBrjLw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJG_bHazDmaC4Rt3nMaYCG5tk",
+         "rating" : 4.1,
+         "reference" : "CoQBdwAAANgpT1YDrthDAlomxNfxmySXe58f3T7JLD22T-vj_Jz29rUMb3yKDofhJAjhG-plzF_5rss3nw_mTFZ75KdoCtLIYqMx6wXQNrtyBl0WEaZLRAsDL_ui3_UAM70_SYXYVE-CATFBCcOnz0DlQUqCj1e4fzS5-PmyxnBcJ8bac7aoEhDUzTZy1CcKr5QK8QAxrXThGhS78g7w-tl_UtVIoA9onr80E_7h6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Merdeka No.2, Sumur Bandung"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.890256099999998,
+               "lng" : 107.6038019
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b9d853bae96248e0f61280468775a238ba1e87ef",
+         "name" : "Amaris Hotel Cihampelas",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107472439359175723317/photos\"\u003eAmaris Hotel Cihampelas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAFlIE7GWewW1J3gIIi5qaZgA_bKRt5_5YPy9pwq0JbKOh9-BkmIxq4eWeYOip7ErTIXAr_1hFS8ljTtk6i6g5auBLlpfSLbnPJRNLbuNpJMTxLtjYBKKmHvIGsloxinC6EhDbYacRNvlLyMuWlbw8aEOQGhTAB-WmTP1l_mJh6E29UYHENKuyhw",
+               "width" : 750
+            }
+         ],
+         "place_id" : "ChIJ_8NeYFvmaC4REyTIpA7NnA8",
+         "rating" : 3.9,
+         "reference" : "CnRqAAAAh4inPt1lS3-aMDx1_Mu4kHQ93G-v-gKzqjenqoXgTr3Ab5GG0oNpTLPJLU-EZYLbYgDmWhK5jE8i5bm7qTYWa5vfErXikcHEU6V9FKw8zy2aIzkhwMPWvHZT1d7w8f6Ks-tVLArb3md7tYOaT1iEfBIQqCub1-B90_GQgrJwPPWxIBoU93P8q6PRB_k3O7NFNeL5E699oFA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Cihampelas No.171"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.912958999999999,
+               "lng" : 107.597415
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "b282c8be57a07d3f5fbc66e38a3693f67460e628",
+         "name" : "Hilton Bandung",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 678,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117478353769565668987/photos\"\u003eHilton Bandung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA4fVHE--jln5Aip3eevLrTdJDUkXhqo4CHwnNns3c3zimdThVPt27A_H2b-XiiTQ2rZtV6BJysSzkujKayY_yvM1Uc2_AKzW8218BzU5fKTCaISZXkiPsWi5Qjq6gSPBuEhAnZ5VEsJHzBm_nEXOt4LlyGhSX48_RWioY1mWCfQLTBos2wPNemw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJzfhAnmrmaC4RVTr7hsI7XPg",
+         "rating" : 4.4,
+         "reference" : "CnRiAAAAetaFayAWqc14Y_GTfo9EdksV_xm5dyQBbr0ffWGY9QuiczTbSeNJTo57GnIjjTAs_EJCR8Jm2REXwZ2uXKTtkcwnvz7WcAajWHpI2AoEPIyVF4qScsDEcqhdqwsLmYxBZv6V0yHpzWVPnswwXPNQ4hIQnA0B8jvQDPmBx4aBqENOGhoUJXtFSJauttwG_KQlwPBtYFy4YvQ",
+         "scope" : "GOOGLE",
+         "types" : [ "spa", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. HOS Tjokroaminoto No. 41-43, Pasirkaliki"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.8900138,
+               "lng" : 107.6044027
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "705728d449f7bb0387106edb2aa09074800dc15f",
+         "name" : "Cihampelas Hotel 2",
+         "photos" : [
+            {
+               "height" : 743,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105875976179541487099/photos\"\u003eCihampelas Hotel 1\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAKrEaY5v-GTxJ6JPnOMkafMRdyTm1TrYZxqHM7CG4er8AXkNbQoe1Lhy0M4k8mp0_eRLl8BTUYXnySOlDiG7Sk2UG62Rkgsnpqwk6R-v9NQTvoYaeSiog_GVLOLyxEv06EhB8r5uvpFyUPSZfb1SpH71_GhQ_ZJtceo1kMIuqJDiMpZtq19EVPQ",
+               "width" : 688
+            }
+         ],
+         "place_id" : "ChIJmZT861vmaC4R0sWdETed9t0",
+         "rating" : 3.6,
+         "reference" : "CnRmAAAANxmgQ8N3YlDJ7F1hPhQl828Mry7FDhGhxCw-IKjmz9eBSAD9pALdXTL49YuDKRSe2APC8qlKi_h68DXgLJHGeDGUxQcFPzxqYMWyg8Ykyb_YpC9UWFSTAy4CfgRqf4ILM35TTPEQI7tpWV39HTqeohIQMlIYkFf1jTK8m0p-5XgCtBoU-I94O6UIFBXQDZ8odjl18UT52CQ",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Cihampelas No.222, Coblong"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.901905799999999,
+               "lng" : 107.6272525
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "40ed1e393db54fe8e9b5ecb867d20e87e6fc4c02",
+         "name" : "Mitra Hotel Bandung",
+         "photos" : [
+            {
+               "height" : 864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106578274496346666152/photos\"\u003eIvan Prabumi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAZOnQ0lH3clwY96TGekapZDqYRCQ5nScDdMgvkHFEXKX1ByqwPXGEfS-QHCd46svv0mesdbMU6EmnVEC-5Z8XKDXaqrqoLxnD0-QLS4AkLu_k6HevnnfYC7IZFxz_leojEhCcqruWgAMj8Jj5686c_9cKGhRm-a12JfwflDuBPx2aQw0qbEU9bg",
+               "width" : 1296
+            }
+         ],
+         "place_id" : "ChIJeR09B7TnaC4R7C2hNjva0Dg",
+         "rating" : 4.1,
+         "reference" : "CnRmAAAARME_ndzK4qu3JIwS84JnHc_254hy93M00sNr4hEyIZbCZG8XfbCQ1nFKzRRkgO26OWz7wot4OYr4Ky_3WACSOPA4cq89cBPIv4eS_YqQvMIPHaT7BwPd7kBLQia8l4uEeB-Z4zVloWIgKIqDKJg0GxIQ5DFxY3zxrIQIgvw9vdKrYRoUf2x7pcL5IsWSrVtFBd-04yxZRZ8",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. WR. Supratman No. 98"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.9085309,
+               "lng" : 107.6184555
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "7a19d894f2e765b0658a29828d1b0257f8804fc8",
+         "name" : "Amaroossa Hotel Bandung",
+         "photos" : [
+            {
+               "height" : 1123,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102000907965301092742/photos\"\u003eAmaroossa Hotel Bandung\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAL5b3dAnx-OgSU_L2t198d2YkJ8j51d_ed1YkGf6xFcvZCkTPBWW1eKgsPeF8IB2CG12UxYiXp7tb9wR49L9MudESpuj583ROxCxskJfM8i36uwU2l4uzL0F_D6BxmW4vEhDHHCQ849uzWlu_odr3G6YwGhTyS0sHcYRbitVtPjIknfVaEydORA",
+               "width" : 1685
+            }
+         ],
+         "place_id" : "ChIJSygxoDXmaC4RXqifutvyKow",
+         "rating" : 3.6,
+         "reference" : "CnRrAAAAvt2tzYMsZvm6179nPxSqNBLU7cMlWTjtiXumkkFlw__O5zYnbAvQCy5AlUFm9z8EMV8rzpn8TrMe-KJ3d6lmpQ0nm6NmmfQRDGeCuaEHCJLT8rugvifeTGpQCyXqT9-2DJvwxbRnSuI36f5ZDtYlaBIQxdMk6uBSK9RU5qBuZuN12RoUvdLZNjJ0PnJed1nvGwADnZ5AtEE",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bandung, Jl. Aceh No. 71A"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.883007999999999,
+               "lng" : 107.5802699
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d047d45c5f43b294bd7ebec1823b120e38d1f745",
+         "name" : "Garden Permata Hotel Bandung",
+         "photos" : [
+            {
+               "height" : 572,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106820194490973389824/photos\"\u003eGarden Permata Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAXFXLLPZH-4I0o4RZIf_ukRNBwI2ccwtaJ9nTVQC_2xDXrHeVBwyJHuNqlEHZD34VYoYaM4T2df5qAKVMZPhlVlNWpoYk4pyYMUyTw2_-2AOTWmQ45BXKNmnt9gRAilSWEhCgZJ_06StXV2yz8xqpNSRNGhTSGEZgwi14ua6LuLhBICHX2paHhw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJT3nJCzrmaC4RjKsg_rzL3RE",
+         "rating" : 3.8,
+         "reference" : "CnRvAAAAT34ug8lRVJVn4vagps1-Rqi40MehOj_hjeEI2dSazdOn-cw0G9gjHYnGPR7Au-z-9aRoXb67gacQD6_F6Hz0ZP9vP9EtSvEiDEiQGq_vG-bw5sNMlWG21Xr6Yi5uXLAXCvPTvlusHDy9od0aCEF8txIQWySt3XapuxfdTlqoc1vGgxoUQxo-CzI_4jurE8R4pJPBC0b5-28",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Bandung, Jalan Lemah Neundeut No.7, Kel. Setrasari, Kec. Sukasari"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -6.895975,
+               "lng" : 107.590677
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d8bc9aa428e796c933913c0b67ab8db25570704f",
+         "name" : "Aston Primera Pasteur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 450,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107848735953147791311/photos\"\u003eNika Woelan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAFvMzMfUjMM90t3HNuI3aWDw6v34ABPsNpF4oMojrb0-YJCEvHeBXjXAB5WfXZRiXcaPOhRROZTZhqr--gRIM-oFsFpo1KFtwCmzSHvtqrFLOF9EM4sFHEQj-0NkT6Ae7EhAIx-ZCsk2q_CAVBXbOwAx2GhQUS1KzDhBTlumt7ki1X_7JIy3B8w",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJVevl2mXmaC4RGwEjf5s8QPk",
+         "rating" : 3.8,
+         "reference" : "CnRpAAAAuk126Yk72IAsU22wnFtUm7czGpL7f_E6mSqZ_rerzhaDW38Uk_oGp3bIMlKM5yz8kl4meBMASkDi3akLSIJu6X1680j-xxUPzRkgiltNYIJVdPlNIccbeJoBF05De5Zidb5XSV8qksDLcFj-maghABIQmffa4lzSj6kaiV_MRi84jBoUrXW9DKXthONTRHOZzjWG3EQ-2-w",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "No., Jalan Doktor Djunjunan No.96, Bandung"
+      }
+   ],
+   "status" : "OK"
+}

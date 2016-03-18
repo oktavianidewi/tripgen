@@ -1,0 +1,570 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "next_page_token" : "CoQC8wAAAGKbgrGTbL3ozG-ekgX6zanSecKd7fNFm642ErLJksZYo7WLOguJFY5U39ptz-CMekmJLz6WYeMlWYKuEJ3z7R10YaHgZeAgdVCJXshExU7SEPJeYq1NoXutLPTPPK-koYVj5QpkklYhiEQQM-rGkOwi7xBUp7Gt0vrEJ-Fwg-M5X-qExz_4p4xS4WoW_E9yy1OU9bQ3pXVMo-uoHGLZvNTaXzAaXemThRXySE1z6eAZMsSoKe5L_-ka6GTC_M34raXIWhUj8ySWqYYghVITyChM64cWCO5CeJOAtvgI-aJoGgqJ7_9G9fBrfV5R0PWKRpLKcbwBdaWLeDxVLC5aougSEKCiAN-NfL0UYISJLTZESIEaFPJ24Nmv06e7bcQEl51x7TNKfr-l",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -2.2179704,
+               "lng" : 115.66283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5478351,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 92.171808
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "44e04bcba3b748e55527a0af2769fbdc8b2b3403",
+         "name" : "South East Asia",
+         "place_id" : "ChIJ1QxyXmCvMzIRkRstVBgPpyg",
+         "reference" : "CnRsAAAAO2-xBpWXwtn__zbXw9gGzPmUSBI3Pkcm3ISbImDOlbIdF4PiQsU2afgmUqOdnAuyFpUrgizzkt6KYd9ev7P6pvgGkl9kkFzgUcMrgx0wvOvOySb9qQS4zQ_lHHMLIoNmeL9CF7ZlKNyHHmhhCDHlvRIQSSVMoTNhRrEvEJHpHWMZwBoUPs2-KDXPwX0XniBi_IeXccPH3YI",
+         "scope" : "GOOGLE",
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.977329599999999,
+               "lng" : 112.6330135
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "79caa2da9bedd708ee3d44f35801be67418a6ad5",
+         "name" : "Hotel Tugu Malang",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109931616096997264341/photos\"\u003eIdul Choliq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA4yg3XDc6g_dL0SBNIPMmOj6GHgNgi0qf4LLgycdiJlR-scWPTyhVAACDd9BSBu2Pf302sDOaXPLjqpfHWpEZ_p2vPsYJlzgDzcSMjBhpx3hBfVhyvRhmQ_jsPWm7hWSDEhCHaZOgVogV0Lot7rRAUy3NGhSGeXMKhg3SmPUoHrA-eAY4bXypqg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ24XrMqCCeC4Ri4OTjjc-ouw",
+         "rating" : 4.1,
+         "reference" : "CnRlAAAA28bh8kapUuJdFMTx3BZ9R8XIlqf5_4wWdj99bUUPGp9RhefI7Ig5WEBTfDabegooLlCJxO4LDmzG9EQkwGXP8Jwk1nFo7bL0Zb-gnr80JJ3u6ayOiYuslg6AoeTIp0w0BSlSZOymfU3eh7kP4EGTTBIQKKoTCMvDpL5X8GS3C2iI7xoUoqXfRgvFWJdiRyxKFWC2341Op4Y",
+         "scope" : "GOOGLE",
+         "types" : [
+            "spa",
+            "restaurant",
+            "food",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jalan Tugu No.3, Klojen"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.952524700000001,
+               "lng" : 112.6130391
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "caae81a21fedd213e17a78d4fe75a264ccb03f8c",
+         "name" : "Universitas Brawijaya",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115814321345126027310/photos\"\u003eFrancius Tampubolon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA2jTw2cCZoA9-TjROGLsLbRTICM0DF77KzBJWCNXAyt2L1E6gM1gY5AfHQir3yWJx1Z88E0DEI_EqsWNM5axB0Mv_O7rQtDRC5Nwo6_m68RiuNNh4nA8DwAarrlRwvmlqEhBVRegx2lfBsEmA3hfKnu3BGhRTi-fqYi9bSokvB6zZCQhGM284Ng",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJUX8903iCeC4RwQ603uAxv8A",
+         "rating" : 4.5,
+         "reference" : "CnRpAAAA-RzSR2mzwa1vOmBLnibPAL6uLnEdQSN6pDj_jDaE4nXG8GjS6ir9gy8R3efigjWhZRiGJ-AZmqYfFmGxiY7mOtKGchfqdBrVzIt-hSfBlY47h2Kh8cedrchP5Vci2_m_R-cXgWv4CizSsRtqmnI4zxIQmaT4yrLJUghgOG29PsCEABoUIiZh1VFmnVg-gZxiyAuk0lg76IY",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Veteran, Malang"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.0218747,
+               "lng" : 112.9524384
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "7819619f94cfb9794245a76ba0c263ae5d98880b",
+         "name" : "Bromo Tengger Semeru National Park",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110682383114470861304/photos\"\u003eStéphane Sagon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA36VoERjMuDTU1voVI9_Jfpjp3PG0ApyHpVs6xgMRb5HfwIu5B120GjWIsrG0_IZVrx9esNje_XVVMRtJs51Q2NhUoCXFCblhIODDVg1_d1Y8O1NEwyYEc7XxipKANWwiEhD9JYrwnsz8kjVbgz4aoDvaGhQXs7pyFxEeC2LHKqISfjFIgR5G1Q",
+               "width" : 1367
+            }
+         ],
+         "place_id" : "ChIJRclpXzY_1i0RyZJZgSLArjY",
+         "rating" : 4.4,
+         "reference" : "CoQBdQAAAPpgvp3WYZDIGA3Z1XAI6Ww6NVeH-jJSt0Ifz11_M5wfLd2mhPTU46YX6eY7mjqs1ef_ARzCD-9n8ADoS095AcGUbaUsgrXcXP422os2vCtyT3pp5w00YocX7ZSzM6lt88q16Y2RxbVcAEYT833ULL6GIGdH7uwbX9eHT9NrLoYREhCBPfjzFGGD_xzfBQGgXzIHGhSDMPBQI1fzHUZqMVujhiXdc7IBCg",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : ""
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.150266999999999,
+               "lng" : 112.5740046
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "37c9bb33933cc2d54f67029ca4bbe92a18364995",
+         "name" : "Stadion Kanjuruhan",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112160703848532449152/photos\"\u003eEndy Prihartono\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAPVStWsRuadL1jSWBHEbOGdWuG0XMimMZxs8mRTnw49tNkZUtdRb4qzTvhlXRwanYMgNzp932AB2-XhVYtEUpq66sN2MWzexvl32WMwYbWigzlBqdDvKOVjONT7YTrJPhEhB34VdUeh2E3r3QI-2K_FtLGhTOBsj9mbqiL7tMK9-4DgL4XLezDA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJdQbnk5-feC4Rr-LiP5ZIyQc",
+         "rating" : 4.6,
+         "reference" : "CnRlAAAAufx6CoUWjjG6I1pRdATEEODm5AyCJlWsf29WhZHgC_PFtdChy39aDFLlrDV0e2PFOvG_NuE0qb8aP9hJUzxBCMaY0sjExWKcg3RqO9l69wkK128N1OBFYF8va0qYIhYsraLmm3Sp-XxcOdS-Vx9fmhIQPDv_70PinkoGTk4DIjO7yRoUlBvxFpLQCS2CF-qhgoY6s0xmaW4",
+         "scope" : "GOOGLE",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "Malang, Jl Trunojoyo Kompleks Stadion Kanjuruhan Kepanjen"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.976202399999999,
+               "lng" : 112.6347461
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f51ebb44dcd8867046281e7d75f48de7ffd0c839",
+         "name" : "SMA Negeri 4 Malang",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113355169950181272178/photos\"\u003epetisa anisa sari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAVnaC-dsZIjY55ZlFODPsW5prMRhDoHYGACtyofAOr64CWLlHePR_cRMBmasbqW5hDV--3AQmv5iV3MFiBNHdKcwrxKia5puWswVA70eW86mBw-jMX5YSEDh15cINfFeDEhDt7757snTG8nkv0b5GBJ8YGhR-KgnTUUEnXH-6v65PPPIsfAV_lA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ07uafjwo1i0RpaPWmJav6cw",
+         "rating" : 4.4,
+         "reference" : "CnRnAAAA4SQBRYWwaNNPy3yfX8Y_cG7rsRtDhH97doMJKsX913OvpRNfd14cJbjklXzodgSPtkhscooUtcYC5Ec1Y7lgJfive42Wcws7WlIGTvDGLb7O8hyMZgkda9K9WkfK8IjJRVZcy8Pt-j-D2TGnHCMaNBIQwSfDNr-ILHbcjnJ5MWwDoRoUYC0YZdeZWjkPFAfwSJ13WYHc0Xg",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tugu Utara No. 1, Klojen"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.928870799999998,
+               "lng" : 112.712233
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "9fd17fecd0afc5fb0fb757e08187eb4d06f0d051",
+         "name" : "Abdul Rachman Saleh Airport",
+         "photos" : [
+            {
+               "height" : 1520,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105955486814702261975/photos\"\u003eWibawanizal Nur H\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAyscoV6LCjR-61DGgq6rGDdePav5GvpChiu5_GHVmaMsMGGk27dIM5n6zKzRCs7-sdDCYpxKRWwRQHfN61EQqVSUXI4yO1EH1QysCWl15PsAZOI7AFl9I0fz4_903oIdoEhCwfBeB1QMZ_axh7nZVn3X9GhR3ulHK9Zrl8b4CoAHkLWuafba2aA",
+               "width" : 2688
+            }
+         ],
+         "place_id" : "ChIJc7zWg1Ip1i0RMD5Mxnd6Ag8",
+         "rating" : 4,
+         "reference" : "CnRuAAAA4J_aIwF26spxcyqCKRZDlNMxsyRijxp7SqwlWLDMXTsLgi8f0rsgw4FTTH6dXnzik4iEoJBFW-s0w2RJlkvy_S7M23sHZG1LDqKkwKQ6pLUThizsuMlhlihCA4guV7eZ5REp2dhni9_EHsS_4PpJqxIQLp0gRgFc5F0teR7nh8v7DRoUMhTOKIn7rz8yr9qn-Sa8H3laftA",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Malang, Jalan Abdul Rahman Saleh, Pakis"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.0257778,
+               "lng" : 112.7090876
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "12373b55eaac2f7296bdcad0509c0553f10d0974",
+         "name" : "Candi Kidal",
+         "photos" : [
+            {
+               "height" : 3008,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106183615410292565464/photos\"\u003ePungky ardi sasono\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAtfFpPEtdanexGV2vKM5XbD3Vba99Ay2PDAUYo0WwY0b5zQlYh-udfKyiAqJlufh2yFiIxyflotP2sXKoUSrLIWylLitCzvhVZF1aO4-2AijQaBAZbhtfkO5An1g9RkHPEhCaQOMU50BayjuOMJ4F5m-ZGhTkZ9WEu0SyECIcMHZ6KAvjGcnjbA",
+               "width" : 3008
+            }
+         ],
+         "place_id" : "ChIJ-zychHAm1i0R9s8BqS_nxDs",
+         "rating" : 4.2,
+         "reference" : "CmReAAAA6vFIyTaXm21AU5zvPgMRQpdsGOoKaeGkj-fliU7ENtcEXHppoIbfF39r0xlF4B_7n1yDGYWYectyGovZB0lEcwcPEI2S8BT7DUkIKzZL2zwxE2WKo2hN5QOqYPouc-wIEhDQ8XnbbayjctiSjuvNCtrcGhQWZ2F_AmkBb-n1QfOhC0oLwjS8lA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Rejo Kidal, Tumpang"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.1009441,
+               "lng" : 112.1805407
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "79b49afd96d6fb537926e8d8de3670e54e1299aa",
+         "name" : "SMA Negeri 1 Blitar",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104850362667631865780/photos\"\u003ePark Ryeona\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAACs0WsVR6qXJuIEnvkcB5PPJPMzumuNjqH-99gtUUa3Z9uSyTTFHobsFCI8yCHwtfbN5FtpVc67PvCoVzVStSglpARQR_hSjP4gvGI6VViSd6FAJU_Vs-fLZig2BWEkOaEhDgWrHgMbbRnfFcoTCMIyRHGhTjiYJBkkJjXkmnVjEuOs5ZJx_HoQ",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJC6KE6HrseC4R-MYvETqvnt8",
+         "rating" : 4.8,
+         "reference" : "CnRnAAAA-PnuKOyxE_528mJ0WV-IjI8VFwpgTBNacWiN3UQVsnW6UNyHUGPidAGJ24uZ0gUWD1WTBvHFlSB78DN-Um9HIy8qEk-ii1Fo_fz9U4A02pta0eKJouTQtugwxtAOHWXu-8q1jXIcPQA0CO6QDieF5xIQbQwm9OBM7U80lzcpjVrFLBoUrgBYcSnArbzciE2mUVGu0Qwa-1s",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. A. Yani No. 112, Kel. Sananwetan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.939082400000001,
+               "lng" : 112.6386493
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "db7284c3f5544cbc094f00c718f41348492cc4f1",
+         "name" : "SMAK Kolese Santo Yusup / Hua-Ind",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 566,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104944332028528920547/photos\"\u003eSMAK Kolese Santo Yusup / Hua-Ind\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAFXRjFnxnVAVTnDAoNWGDxf8_kRmabwsBmrMGr4FNIu6ysVE5V_DkcZeOwqYMWtmu4O2317o3y8AHFjKSoFquii8XRCTSCw4wRquUQlupn9Tks4iGgVeaEzKCB-R2C8a-EhDB2ZgeutMHEDD5VTlC-IQdGhQXCx2YtsPnElJVXHJ6ptxPNoQwRw",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJWcN9O-op1i0RFPnYJs7uRcU",
+         "rating" : 4.9,
+         "reference" : "CoQBdQAAAAW1wK8UqeonL8Uw1Ju6fhWo4niA2vouVpCz__0sVbOYNYLe2jvHUJ1UwKBz15tCdR4_BRfdjr4ZPU-fbRmjvrtvyQNZl8CYMYbURH6M4DeRyqGMHMIh5g6oxPAMF6XHl5G7jdK5O2vCcTe8KLm3UPDov4fHBQ9R2cADfB_z3ilaEhDLj_sX75C7yC4cpFDByl8IGhSVg17QMAcpO3_yM7dlZVbfP4MumQ",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "JL. Simpang Borobudur No. 1, Kel. Mojolangu, Kec. Lowokwaru"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.7999339,
+               "lng" : 112.7410027
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f50e6173fb6108bb4ed6a9e150d78592ba210111",
+         "name" : "Kebun Raya Purwodadi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108716557922256943852/photos\"\u003eAdam Indramayu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAALjPWyzokUkwzWFiOuZU4lP8D1On38RCIsuslmysy7Oi9v42f-5Xt64U-ei9WK1Pwagfj8YZKGGCuu6p_yZlFuaUpmbBVzM7BHqvH7f0lT3kafnVWGZcgGxh-kbeZxbXoEhAAIwLGIkWO9xqcr7kLd7AbGhRxA1RaoKDp3ThDuphprRSalwMszg",
+               "width" : 768
+            }
+         ],
+         "place_id" : "ChIJ2YRA8gzT1y0RF3hvQDDAxVk",
+         "rating" : 4.1,
+         "reference" : "CnRnAAAA9y1p_FFdrIvSmOZgiy8cMOPaKoFMzut6XoD9RQ719sPL75_MVs26of9xfRpgqsShEd2ug5nrLgAtfwKBTU2wE_jBdbb9Guqg7ClPkm9l2267oMO742zDiYv77pbx4edDcKykYWG8ncsSFwxbUvmsKhIQG4RqzY4SnmBp6sBr01g4aBoUNIBv6NBg_S65IkX9jWkF563G0mA",
+         "scope" : "GOOGLE",
+         "types" : [ "park", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Raya Surabaya Malang Km. 65, Purwodadi, Pasuruan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.9695646,
+               "lng" : 112.6325617
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "317d50573e5683dd6e22f10429b28e90c9072ff0",
+         "name" : "Regent's Park Hotel",
+         "photos" : [
+            {
+               "height" : 1224,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107574211435068656147/photos\"\u003eAgung Setiyono\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAZwC20TrXUKYFOOk8Xtfint_YM9UVgAgqk85M4Ng8sAKiVcQaOTOf24L5MEBojQmMNQij4JRGk2S_sqPBDC8-8BaJU1UG8ZJPZQdprl7tHzGFY95O7VHCCzMcc0TA81DsEhC7K9ycZIulo3vzvSZnyN87GhSZiE6W8dOSeymBv-IanSZO4aVR7A",
+               "width" : 1632
+            }
+         ],
+         "place_id" : "ChIJGegVyTEo1i0R5m0HJM4p8fc",
+         "rating" : 3.7,
+         "reference" : "CnRnAAAAi3DFbARJx7DXHmhNBa81RS4IyB2s2DY0Zvzx9BQCPrFl3Ao_dqo377CvXGBHNV0YX2puPoMs1LPhAM3UVpo0Zd-_53DKe0yYiR9X4HxBcbVc9bBiLq2ap_1koWAKPtrD8oeEe4GkYjOfgrZ7eF_ByxIQYypPUAep5ZZfHhY6tJ6qshoUkcWMflMOijAYU9jsar_YLvnypGU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jaksa Agung Suprapto No. 12-16"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -8.033828999999999,
+               "lng" : 112.648916
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "29be7408e885a10baa69ae0344aefa951f0b255f",
+         "name" : "Politeknik Kota Malang",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106971175457269969287/photos\"\u003eFiqih Firdaus\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAztravEeRSqr7qWkJ9AZof4fbiYyztEMGCiNX2WxL43KL5sf2yex2egBqB3uJc5biu4VrYQ95zBEhP0jkXH9SViqsszlnIOERcZSYCMfTB51BaTDAS7fXeW3z7MOknz1NEhAG3f_yzRVKQsQ5QehU2kwJGhSIahCxr3fK8GozuQVJC--OIZ17Gg",
+               "width" : 3872
+            }
+         ],
+         "place_id" : "ChIJGVkr8pUn1i0RhS9BSdNLe_I",
+         "rating" : 4.2,
+         "reference" : "CnRqAAAAW0VjATXSURtuZ3LxpPAmCcJPKvmHogP6lb2tQJWm42nScWDPyktLnlwDf5djbyXjJpciAWdjd8Aim7zgDQN-fngGmt4PBT4PKx6bhGI2yQFXzJTLk_osx_-Qeh4lPyADRkIUgxS3miRd-PtYKD4H9hIQyMliODHC0lo01AKvCLaqmRoUPmitKurLFJ-JCuduCxFBti93GKw",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Raya Tlogowaru No.3, Kedungkandang"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.952103799999999,
+               "lng" : 112.674151
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "434ce498fcdfb272566cfd84e152d1a5b02907bc",
+         "name" : "Taman Wisata Wendit",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111060238480187218650/photos\"\u003eDedy Darmawan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAh94xoqnmdW5uNoudDv9Y0SGnxCL9IcYxpQ6QJ-eskCGIUlFfMobGJbSaqDhJzuXBaHXBWLNIp1S6sI5Z3rtnO1Yh-XOchVeYdVnZ2QThH8WXHoqTdCPz8R2mOZPA1e3KEhDhbt7b3zwLUHhooLsO2dDOGhQFn1Fci-FsMF3ejRyhbV6BKq5Esw",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJWSn4OgQp1i0R1hyPo61eSOw",
+         "rating" : 3.5,
+         "reference" : "CnRnAAAATfBUNrfS0XngO1T1IFq6V3uQYED5Rl3Fy6hqXfQk4DBpoUEHcT8galVe5_wtWZ6rM56dUD_NDMbY7dya_q6V2DuHY5D8tSWPHXjqe_Vf63LMFOIJKU_RjPaNjHE9oGP3p-SxUwHOaL2wc4ad3AROGhIQXtUcV0EuoR5hM1xKJzxSxxoUDVGPK8mfldF0CdiV-xc84r-v-uo",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Raya Asri Katon, Desa Mangliawan, Kec. Pakis, Kabupaten Malang"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.969881000000001,
+               "lng" : 112.625004
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "53516b5f2c4fd53e0bd68f8c6873d0865861ef27",
+         "name" : "The Shalimar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113004483487980656135/photos\"\u003eJames Phon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAASVM8O3VGptKZxgo41oltMWfvrB8v5rFLl68w7BFxInPqSOyb_iJECdpSwCKwI5ZxpWEXcpFcqvm-YSNNYZK-2IbSroQMz2a8JGOLXE4tP6JKHaRGJgWLMmsFXraSxmfgEhCCdw4lx9V57bgWCin3GKFQGhQpFgcXCoiuukMPbwyyX0SvTsBVRg",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJCdMU2igo1i0Rg6b1qRjKWPM",
+         "rating" : 4.2,
+         "reference" : "CmRgAAAAKP4iUT3h5iY66YAxYVLbuO31lYP6a33iDhhRCe0ZAu0VyPAdwzLOudMZsIyxKDxObONKqFS61GIlS8kOP-6t9y57bY_g5VDgI-dlnEtm6RZHAndqKaRH3SC6PYaLsyYgEhAqffg93fNJ-tCwfW9YD_MZGhQIIqH6JAbGTCBz-jHl3Dd4vAekvg",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Cerme No.16"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.975585199999999,
+               "lng" : 112.6250749
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b692ebb074c81eaa5bea86c00f3d457766e64bfc",
+         "name" : "Stadion Gajayana",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112393636374617291617/photos\"\u003ewira fadilah\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA-UyBhqPji8aIVMhakAH3_Ip863PAkXG3wHohE4cC460UZ52QCzllmYPETtWO5bnI9ES8bjpkiA75U50yw3H98f7zC39EHHwtcPq2QpXrQejI_6bTyJ8s84kLii4BTudJEhDVuR4ttgc1EmrmK0KgP68bGhSx5bTout73n9_lYCtLUSEi03c88w",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJz3HUkiYo1i0R7SQkyS5zR9A",
+         "rating" : 4.2,
+         "reference" : "CnRkAAAAVASdEIVoGyA6qr8E92tVMIW8prHiXgcJ8ofNYh4CD1K-Ck5AQsNFfRbXsDhPqJTh7KKuyt9YXWzAqq5h499Gd8Ktj0-pa8WSm0SO6VJAzJnA_hSIM67bpoDdTKahJH6E65D5fjdC49mGekybiAgtXhIQ9moc6tXwBB2wHN9UtNlUwxoUj2Ld8wFz4FZgRBygtkXRPpcqh1c",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tangkuban Perahu, Klojen"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.873998500000002,
+               "lng" : 112.5203873
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "50b5196b348073075bb480b551e06acb9abd1edf",
+         "name" : "Villa and Family Hotel Gradia",
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102805117087796894089/photos\"\u003eVilla and Family Hotel Gradia\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA3IvU0aWmSUQZHcjDgw4BBLLpUvXzc8rnjxHxVV8naS_K248grMPWziv0cg3s_vvD37PY-MloX8srzOkeV7AY-Fo1GwjOT95eDYwSD1cHGd675jVbzRPa_6o9y3ZzNLisEhC4fhHVb068criraZZLjju5GhQLq_UfcThs2LSZae1YS_r-wgft1Q",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJ2_LFSDKHeC4R7td8HI6u1a0",
+         "rating" : 4.3,
+         "reference" : "CoQBcQAAAOowQGVyWqCC42wSTaPJ_f03c1s3DLbj1mkzApsKozI3oMtIzZCyvk7xjGdp36pqcFRFfZWlJ5sgkDIaJHt6kp_XoTHsap79wyqOHfS4O0_dGepxTPDtRY_r0UbTchrIv-oCU3Mw9J9F7w7ZK32vqmhRpT0lQZecwHNSa9AX435sEhAK2BpSGsHAOnNhoJzjdm4XGhRZ_A09PTeqshwNa7ywongOHpyy1g",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Ikhwan Hadi No. 47 - 49, Kelurahan Ngaglik, Kecamatan Batu, Kecamatan Batu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.913565999999999,
+               "lng" : 112.655618
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d61d704ce798df3d241bddcca2870e976ff3ec49",
+         "name" : "Solaris Hotel Malang",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100174581245553493915/photos\"\u003eSolaris Hotel Malang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAJul5MzGXx4kTEsxKWRvl5GsTvp3BPPhHyRbKkeZs56BJNMbtEgexIuJRDtNr4rJ31D6ezy-MBeIafHZVrqu7YzWeEtUqxbaI9T_n8S49ghYyijb0N4zJ7wLHfraMLSLGEhBwPRnEgSVu7N3NlO3BJncaGhT9c0UAAN8l14-mevo9klyaKYZngw",
+               "width" : 2896
+            }
+         ],
+         "place_id" : "ChIJ00UnDiYq1i0RPrO1JFxBJmE",
+         "rating" : 3.6,
+         "reference" : "CnRnAAAAPRi00WYyU5Oev4H1aoT9INMSHBS6fU-8Ugn7rLHSiJP1Bxjx_53iKVoEKIKFhZXlEk98jkQp4UHKE0GvKE4GENgJPAS6sVVp1H1y4MYJwUp_eUudhTyJv87jOtjicF8h2IoU4RWqk5fDRLFcBnSNDRIQaxAiSYrUxIfUlZqi1BkxmhoUr1mXqRtQywMdFrwupirz0-B9Gok",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Malang, Jalan Raya Karanglo No. 69, Singosari"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.8729867,
+               "lng" : 112.5189874
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c890cbe8843f3b50e1700ef4a647364e825d0147",
+         "name" : "Sumber Hotel",
+         "place_id" : "ChIJaTuUfDGHeC4RlX25C3qzjFQ",
+         "rating" : 3.7,
+         "reference" : "CmRfAAAA30YIVn-zjulJRZegiqqJ2LvW750xfm_6GYZjuIdPNDWyO3_aZFTfn7PbYwN3jl9zgw-AXS_dgI3lVMyLYRNdKKlA-TDEo4NWDk-J56bICMTCJ2H_l24S946fNtqC8g9qEhBxb90H-Orj6DOtuWurZ1F3GhSPHjgPCSiX2ThW8j7eUeWk2MS1EA",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Darsono No. 14, Kec. Batu, Kecamatan Batu"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.931814699999999,
+               "lng" : 112.6066718
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "8989ca9784b3a6ec7bcf18e296f7c81d7a026e28",
+         "name" : "Paddy City Resort",
+         "photos" : [
+            {
+               "height" : 1306,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103675841872049179144/photos\"\u003eRochman Ariff\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAeEKp2BS_mO69Kjgwg1fKaLMMYhvTP0Q2za8IqTT1UPSRB81isjdC62lJRRAx5dHeD1gua0Gm_re8EFG6juRB0o_ZoH_mds2tdPvpGZ83uTfD6PjnK17VFQ0q8sNlel70EhD7Fe6l9WipGz3tcLpfFW6WGhSPIYhBwb2370bmM7I8zBuDi29ncA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJIfWWChCCeC4RqT1F_PPvSl4",
+         "rating" : 4,
+         "reference" : "CnRkAAAAK6pE-aYo12ZqXJilLUKSejO_8uDEFequGTNnFQ4nXNryE9Ch0-lkyB7AGHgEiqYBph2iOUa43DtjSoUy4speWeYzq2xnbNFJ4dylW4iVK5mupKsoF7-hhxiY0j1MLrHcCzcpqejuOUs9JjFg5Osm6xIQxsZWiFBZ-fgFidvY71G0ZhoUAfvUPlrWo56b5v20gXxX646boFc",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Regulus No. 9, Kompleks Perumahan Tata Surya, Tlogomas"
+      }
+   ],
+   "status" : "OK"
+}

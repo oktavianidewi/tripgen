@@ -1,0 +1,592 @@
+{
+   "html_attributions" : [ "Listings by \u003ca href=\"http://www.openrice.com/\"\u003eOpenRice\u003c/a\u003e" ],
+   "next_page_token" : "CoQC8wAAAG2ZnhcUGgM0SLT2kxMWMtLWVMSlmWmtGoaZZOC2b7ARmfFCDHtjnBAAZjsaw9hdq92Cor3hpUv_ErMCb0LxqQAEtdOf4ApqfZgbaH8rWfDxSLtCW94R1bTO8i_Ofbhjr-LVJRpqH4Qn6u26Q_H1LbUbrwCoC8upHeMhFFEpiGIPshDFSdTVf8cRcXF2LJarl8YLegJV2Ucj4_13ZewP47kV-3Br9wEc7T6-57nPt2KqbKYJR-D-zdYZRqy8Fw6SEeGGUQzyKM_nUH1p4Q3MNLsHLNxamKWCIR6j_1UweiwmFhA0QRVlits-FkCQq0HGd-iyrM82BOdf4XvxvXcETOESEMguXIQbTsqkzaCq3gU7FrcaFKqQ9E4X01_Ywoj8bR5OkpLKHp4f",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -2.2179704,
+               "lng" : 115.66283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.5478351,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 92.171808
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+         "id" : "44e04bcba3b748e55527a0af2769fbdc8b2b3403",
+         "name" : "South East Asia",
+         "place_id" : "ChIJ1QxyXmCvMzIRkRstVBgPpyg",
+         "reference" : "CnRsAAAA0oy5l1ijSJLpCNL-kOuEdPcHY3Ye9lsZLm6moof0KGicfZkTNLfeaKNMak5DwVN-KikfdhY7_JxRP2LAxdBuU72yYLbzSYpYORyScUJNAqSJZXTrd7w-UhOXHyFlJfD0suVtAiF5JfU6Iq0SURPS3RIQcQEzgt8W2MLnwQR-LpaK7RoU-Adx6Tr1zxLTClMwqxBDj9D3fb0",
+         "scope" : "GOOGLE",
+         "types" : [ "colloquial_area", "political" ]
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2596383,
+               "lng" : 112.7401385
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "00855573dca26b04f1d2456e13ed6e4c6f2ac880",
+         "name" : "Hotel Majapahit",
+         "photos" : [
+            {
+               "height" : 3056,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103881107637027939165/photos\"\u003eteguh s gembur\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAiDf2yZ8Gubwe_yn5juheueLftWemtkke3ZEMLcGMlFzAliHha3td5sMYMR_Ebq1HRHByJY3gTamUddzXZe2C3hUmdEXKc1ItC2tTddZ4p3YXskEU-FnfHaz6UDcU4SwsEhA3QjLGhcJKvhv5dTs1rzROGhQbC98HaHMduELzclPX5dgZV84VMA",
+               "width" : 4592
+            }
+         ],
+         "place_id" : "ChIJyaI1e2f51y0RRjbfCqQqxDU",
+         "rating" : 4.2,
+         "reference" : "CnRiAAAA85QaBXXlAJj_3Wsci6An5SYPPZJwwwd5FNJjuDNRV4FlsQF-rNAe-92pY1uRMnX3VKmHo1ym-pqQ1knCYXr_Zf1ZB4CW-TiTUhyY0g8yLO07MT2W5XM79KCFV--GfDnjjg8925iNrxorLcGrwCjuXxIQozjrmuePKv9TXS8T9EwdsBoUeB1D3M_gBwUij6XVSY1wx8D9iyU",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Tunjungan No.65, Genteng"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.3788851,
+               "lng" : 112.7872891
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/airport-71.png",
+         "id" : "1e6b57e1fd9b51d5c9ecae1f459fd8eb4888ff25",
+         "name" : "Juanda International Airport",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108619776237147514383/photos\"\u003eImas Srw\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAc6QukIM0oeRhwcS4qrBCWQ6kDSQ3gZL5BGRbLyEd2PehDRjDPt3kxfNU9l11f26WrLmN7eodFM50eLQd8pGABHhM5nS6OEunyoxlkqb7RHREtbZfBk0uwryU0ZJ6MDYDEhCoIQxlXrng4ZeuXXk6ScDNGhQhQZMstf6ma_vYCsA10f2jA9Jpcw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJuVn5Owvl1y0R6BhjeFh8_8A",
+         "rating" : 4,
+         "reference" : "CnRwAAAARqZIwZewBsLGzf1M520FCiF1ZEqjbOW5gc9Y6Rs6rGMlaEn6uDpjzfRwP6K4wKt2BkqsuJUH6NSRvm2wDBqWx9yqGous_YpOtuv-jcZGr9H25-rgTJnhOxuHPoDFWfory5Aiey9FmP8b0RMXi6efeBIQbSw8EHz8L-1AhiZJTemMcxoU7tRD9ZJWQlFSU8lAVBCmS9xoTfE",
+         "scope" : "GOOGLE",
+         "types" : [ "airport", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Ir. H. Juanda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.276947099999998,
+               "lng" : 112.7916628
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "1854692de1d1b1cd9f4356c976728e6c1cd5d5a7",
+         "name" : "Sepuluh Nopember Institute of Technology",
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112875545455228291346/photos\"\u003eFirebender Rosema\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAcnpTU0ZQrsPyh4Sv6i34hFhx2D99wNe_TPwyrAJqT7ccDkbRt2HGCgvKkvFpLx-tsWDSr1A9j2yZcr3IkCqq9412US94sJeb_rDz_n8wI7q-uuq4jwoQ7PFKdnOSsnSIEhDZjXNXJbM_jIAc3S-44cmqGhRwF2IsetXEaQ9Hve7rMqMkThG0KA",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJkxoiIxP61y0RWLLtrZk8bDA",
+         "rating" : 4.7,
+         "reference" : "CoQBewAAAMYDdkJvNDngZ-WemCax8pRcfNv4vt9MVgVqTI4csfCMlcl0OXLeW0uHjtKRdUUynup7vRvVxfHceu9XR0ljX2ZbnmmTjijNb-ozImtJMHp7AZdHcPVJrAZxONAfZZkvF9xAh7fKTQecgYlcV4lbONLwP_ZJXgqnlehKVOCh4I8wEhD2QLTmTLfOwT0evKDFIaIiGhRVoNbDJfW0P3snIZ4pJCqlrxvhAg",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Surabaya, Campus ITS Sukolilo, Jalan Raya ITS"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.3452034,
+               "lng" : 112.7277263
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8a2e4a163162ca241c5fe13c31d807e8c9bd17b3",
+         "name" : "City of Tomorrow",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115176735219109818410/photos\"\u003eErwin Prasetyo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAQ1EIclN1yu7ACYiZKdPnYAEBFvJRzK_F08JPqqscx9yAFn-PSNEwkFH-EjXaxEvO-Nb9OJ9ihZUfu9hT_aYmciJmS-BPa4kKbdJxSLJgIewZVn7PcMFl34FyAhGPD7cxEhAepcxzZ0dDIpZNmpay7f9bGhS3Ui-fjXUucqAvhr8eToNo-ZQwhQ",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJuVXpvE371y0RaCGyQAMCk8w",
+         "rating" : 4.3,
+         "reference" : "CnRkAAAARLOV3ECk2E8_2oGq8Dck9_srI3tLFpfmFwWjuDaV5YtdwjYAGm04N1LeBmefpE9JCBJfA-o2bixAzi3OKxD24Y6wqRu9jfEVl3ZSvHwbPlQKQJKzF2C_NCh426SWDdpINDy3JNegX7ESu6L33awNkxIQtSTDtmbB7U6O279uqiL-lBoUVlcmp9PeEgeoHxLJ8Us3-RErtqY",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Ahmad Yani, Surabaya"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.262468699999999,
+               "lng" : 112.7395244
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "78c8b28f0ed07789e41ff0bb72c876ea852e465a",
+         "name" : "Tunjungan Plaza",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4016,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116191405334812533961/photos\"\u003eBagus Adi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAowB3qfiawNZ89opC5Bcx0q5NZQBhdLIVDGehj7ucwCUvwut6cgCOoyEVbAUl7UppzdP8Wt-UoihDuEI7rr-9q0wi57C6ygWIMuwPDuVVJuswRhRiayWoeJPQLikV3KX-EhAmK77r2E2q5AOoylqlRs9_GhSWWbq51EOfG4198sX5_wibnZyXNg",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJV_orlmD51y0RCqnDcyza9z4",
+         "rating" : 4.3,
+         "reference" : "CnRiAAAA5QIz5BOj1YPS9G97ZFNZPc7HidVsJNO5nIY4VvyEZPfKgewcLTNK5nSNoNjffV6J_0rWxNiLNksH5u8MDVpwgfRg6wrtYOPm7tzXN12oKQAGKY8147zkHj2GcBiZz58tkSqu6qqevi3R6TVS6qe2ZRIQTBkPJtjjm7slywYKKFbdyxoUMoxqmwWGYS0UBt05mYwwVmAG1wg",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Surabaya, Jl. Basuki Rahmat No. 8-12"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.290255,
+               "lng" : 112.649173
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "26089ea69d3f3734cc22198cd4c9331185335378",
+         "name" : "Surabaya Intercultural School",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118422602557275622437/photos\"\u003eSurabaya Intercultural School\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAOtO4dHGYngMsAksiQDD_NbwDQWQwweAD-WhcttW54XhjkRSUmKvAleNsfJAA0vz8gexnwXFOLBfBunAXwydmxI-IJTJyCQwU6sxUPepUEVuPjzF5OIeikM58Cr97fW2bEhCqCXsgQuFSZOn3GlZbd1VNGhS3iOd9YoS1XbrnlMbPo_vhLA6yxA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJWxhG1LL91y0RnwAKYAOOIzs",
+         "rating" : 4.5,
+         "reference" : "CnRwAAAAe2zGNSloHeMwRUaFFzNAoHRYqEFwVMInlO6m3fSV1mG-bLO7OQDuSQsSDgjyN5DcqxVXAGEjLRuuI_ItL24uQkb3pIRDwljw0GeEyA8X7ivSB72w5eO6KdVD-4c-bMOgCXT4rbeYL3K6mEu8e0NiBRIQ0OX12CeL80Yrrm5nk131choUxYRIDFY6I-wHzSfwbNM1GFun_ek",
+         "scope" : "GOOGLE",
+         "types" : [ "school", "point_of_interest", "establishment" ],
+         "vicinity" : "Citra Raya International Village, Lakarsantri"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.285483999999999,
+               "lng" : 112.63303
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "0ce00b513f655be3c815d59f86c918ec9508a4e0",
+         "name" : "Ciputra Water Park",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114413878914317106601/photos\"\u003eCiputra Water Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAgCS-3u1clgiSYde9R7jF53tQpLb-AxCsF_r1XNJUipKFwBEG62Cj30jJQrP_pXoTr77yfSeSodp8G6-5quKCYW8j2axeIOHx41x7YVDN-e0Y3SOPUPo_8K-ntruIbHrMEhAWMfICS4GTCQx0t7dE4gduGhREEKqqH3GWSq5h1GvrR1aDrBTqiA",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJyRU62-_91y0Rbu6zrhivGIA",
+         "rating" : 4.2,
+         "reference" : "CnRmAAAAkbbjv8UUZTfHa99CKYxdKktwBYdAXRjAJpeeLvpRnJi_JAiYOeWfokausDUHnPiFCVwDSZREA7SI_AjEaDeGV7tDrn8qUZ2ovencPIWAwLYUKlXiq28VvV_jxImzDiAr-_AUmtZh1hwCfePyNimLHRIQvKesRLXHSrg_-T_Gx1M1JRoUUhzfBzviqyz15sG8uotbpEvdF6Q",
+         "scope" : "GOOGLE",
+         "types" : [ "amusement_park", "point_of_interest", "establishment" ],
+         "vicinity" : "CitraLAnd Surabaya, Waterpark Boulevard"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.223211499999998,
+               "lng" : 112.6227229
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "c936812d0b9d963105ef0cfd3cd0b8c6c0b07504",
+         "name" : "Stadion Gelora Bung Tomo",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108236854057040088730/photos\"\u003eHannisa Ramadhani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAoVDT6xwEbCroDKeIXi3N05u2l44qUw2s2rBiWuZl11hQTOZfS3ANxEBGaZ-oyMAwHSALzPnHesnho9kLGNz-lVpwm08moK9061MA_6TlVGV_xgZ9PItMs-fV8fBZmJLlEhAYZbpPL63NW8HDlZdpHK6_GhSEDFBhmiHP7fr6KmorgPhUsviEWw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJvULou3cAeC4RIMROfFclrls",
+         "rating" : 4.2,
+         "reference" : "CnRrAAAAW7afobvnghzpan2xOQjYibBWVesIX5dPqqnnekH7UCtAdaDFInqH9KcplJz1TFgRutRb7BbUM8NFGb2diGp1QDnwFoeAF9wRtACeZiadwZUHxVEcwfBtvhn3VbMNlP_z2rOKQ2HE3xff_MymL6sGZRIQlBIYh4GtoOsBGca5CxP4lBoUsPdzWVFCBdp_CZih9kOHUYvfA8Y",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Surabaya, Jalan Kauman"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.271566999999999,
+               "lng" : 112.757857
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+         "id" : "f2915d7a35641aa0648ec472ac00e83ca75b8431",
+         "name" : "Universitas Airlangga",
+         "photos" : [
+            {
+               "height" : 612,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101651962098480791981/photos\"\u003eAgung Budianto\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAlfl63Lg-tlvNBfVlzS0mU3e9KbgZnAIobodU2mwJLc2EXlr6S_qNVJ_CRaScmRuve3op2ZjJlGOVTa0JJp8Q_Xj-EKuzpFtw7odrbUVFggRp3WqHWNIZlxe1sxseHlnjEhC7tKrQBwqUSz9gEISyRkCxGhRU78tTJovlzlVFPZ6XibH5BpHaNg",
+               "width" : 816
+            }
+         ],
+         "place_id" : "ChIJLxqljtP71y0R2J-M6x_SQCY",
+         "rating" : 4.4,
+         "reference" : "CnRoAAAAWdlCilzh6cyRv2tmZuKlfhPYt_jZAknaTSMP56AF7cjo0LrQKPPxRvZosN5QsINJwjYZffThF-sCmAY_sZpQtXdVrl80wggah93NFR0ZO7ELG1yC3pd1KEphAaZ3SiJxW1kVXfkzELrg0UPN-AZewRIQpT7-sM_fBjZ_lHnuHGODxBoUGbL_F5SRLXB2BKtekKqBKGGt6k0",
+         "scope" : "GOOGLE",
+         "types" : [ "university", "point_of_interest", "establishment" ],
+         "vicinity" : "Surabaya, Kampus C, Jl. Airlangga No. 4-6, Mulyorejo"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2648998,
+               "lng" : 112.7483941
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "404ce412965040d5b20f0d9b2997ba0a2c5d3ebb",
+         "name" : "Excelso - Plaza Surabaya",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105913166660900671558/photos\"\u003eDon Lans\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAL1z-qpmMGXgvLqadxaD-myiw99M-QUvby17AjFMPcnGkBPW4isOruha_Zwy_mMYpfR6zgpTMaRdrJyd-RBXkZ2cv6dTJwAAOoeYds6hAo4-_94PsRPwPDTsvHDn3Qmv1EhDQo8sWH7u0k9-hZ40T-R8BGhRIhXgTPK2Ys03JpAZJWbYM9wS-Qw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJrzO3l2L51y0RzexMXIKNhCU",
+         "rating" : 4,
+         "reference" : "CnRrAAAAwchEtjpHlF_pFQCcuM1DCUfZucwl1s_jwijJCJuiSLmSDN8usuZRT_3JJ0iSCGLXI6QZY3278sUyeZNJWzL6sitt7rTgzM0vDd9vgpGnD0hR61atvd2JgFVhCGuETOBt8sg0xL-cvWPKWtzBK_5oWxIQ1tJrQldt4_JUq_VPIBvb-RoUT43Ks27WUFfTKelwlNhyYXTy4FY",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Jl. Pemuda no.33-37, Plaza Surabaya Lt.Basement"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.294523899999999,
+               "lng" : 112.7302074
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "74266e12b94c59a97ba3ea12bbe2c8b42e298116",
+         "name" : "Surabaya Town Square",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107199855895683623861/photos\"\u003eAhadin Fahmi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAiaaN5QjbTTLvQdR0DT_BqlVbaeGNd4xlsIL3BQCJh_XFKnh5xVuDv_nkKUkX12Yso42f3p0zvbDdE4y6UUM5OpC_z69AzKd_JSXCDiTx-cRg08LNCdoXrzFsKNXUA9YJEhCcuBC9XVetOQlCAZ4s3S3nGhS2KMdzsthQXKfd629xlWMSHG3fAw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJ2alGXOb71y0RMnVVOT9cqic",
+         "rating" : 4.1,
+         "reference" : "CnRnAAAAAg_3LM06bUd7nGojjUdK10X60lGe6qT4NvReMvAPNFxOvG03biV2a5NcRxZl7qsqc2yeSeuE07buTDGcJDFGfmWhd3_PBW_rzQBBi8BvB91te-9atQ04EZK6m0xThphlA90euGZykpibLbc3K0jHHBIQNMk3Mf_hf6ujxT2lvVfVEBoUgWqyuG1DZEBqYxQ-1ZHq03wLVl4",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Jalan Adityawarman No.55"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.254654600000001,
+               "lng" : 112.7334807
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8805bea39f9155302ac3e5c4c429fbd083a357c5",
+         "name" : "Hartono BG Junction",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103161764219071806402/photos\"\u003eBebi Azam\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAG-udf8siidCRkysfrY7NfWSb90bIGGrssL_VOTGehcC-K5LIERRFwxXhehWlRBn56GXzvZh68DyhLDMgcp4nMjIndXKfefa_ch8L2RRnBMNa3FYF1DslDufuyc6EMKuOEhA0rUa_YasN32Wyh9_KOPNbGhTWKbHuWDZmSPdVbwdMaPmjhs-obw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJZZThb0P51y0Rvg1u_3NwNLg",
+         "rating" : 4.2,
+         "reference" : "CnRnAAAA4MEm0l83syQCekUGjfULNTqMi7lFrJY-a-QXLCPROSzQbLQmvvptOBYSbBEHX1PWa_ZwciLftAbl-UqY1iYBHD2CRxNxqgtlKCDCSKDQZ9Q4-GytFKJyU6htC0uZJjdBTaxDiDPi1pevz8t2HbsDHhIQfeJK1LZF1rIG4crn7IctwRoUEVgwNCTjkJjMqjKpXRivpcDFTRo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "electronics_store",
+            "furniture_store",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Bubutan No. 1 L1 Floor C 95-97, BG Junction, Jalan Bubutan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.113584400000001,
+               "lng" : 112.4295189
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "de9e27baa7b4aa8e3eaa5f142268e0b075c5006c",
+         "name" : "Surajaya Stadium",
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116002113409142308568/photos\"\u003eIwan Adi candra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAA5ts2-VJUSmeqt7oPxmCX3406KhmPDK4yOuM-r4ZzbVbiJjfR3sAwAhHz7utN5twKJa0LKAQ3mY2A0gKqe3BtZAK6BtOTVVB0pJUfU4-VvX1sWHpy97EzQ6yJHfxcwfhlEhAVG4jebRzELv6Ik0nvaxnTGhR0My1iq3pgZSMlyx9S_IMQjlxmaA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJAc2Iiwf6dy4Ru4XW3XzQdxc",
+         "rating" : 4.3,
+         "reference" : "CnRjAAAASGflgqRDBeuY0dvhqrXx4WLjkzm_MNJ5okA31jb6fUgvaLM7UN_mXXORLoE_zOjmEmCkgMAbmz_12n89Qc4eQ0AS6bwHDewPD5Te0TWgMbRXjq2E_7dKSBUblRqgwmVUOvqN9BbhL58zz7IFty57uhIQILIju1xtmexjtlgGwkWn2xoUzWGenOO8fpJNgeieyU_Cxk_TRS4",
+         "scope" : "GOOGLE",
+         "types" : [ "stadium", "point_of_interest", "establishment" ],
+         "vicinity" : "Deket Kulon, Deket"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.266386999999999,
+               "lng" : 112.740312
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3eed19bf3c8dc32567dca43eb5ba418bda2ead15",
+         "name" : "favehotel MEX Surabaya",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114063184849911854334/photos\"\u003eFeby Andika Firdausi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAADXtvuOmGSLhXTy2FbMiJ-vbHvPIQ-C1nMKLtdHu1g9w2ay-bWGSTJuC82EgJ7b4630_texxZXTAL3rYfXN4SiPotMGp6v4Fw0L5mJLFDqq1gaGnp8j161ZaKPn2nyiSHEhCLwMEb1MBABbauRGE8O6P6GhTZwHQB6sHtB4X8VMjAsHJWX863gg",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJaxva8N_71y0RZ4vmEuTauZc",
+         "rating" : 3.7,
+         "reference" : "CnRqAAAAonj0igrjpU8eNKWURub4xmLNKHYTLOhoM1S8M8HPT2U7K0OiRfdcYaFVBzDbmnzCU6RL9xFVicLWOPw5YencQdBFvrnghQ-Lb1qYuko4Qg7EhpREnZRRZjM1sDCgNhbsfC37remvIYUDxaIvdTTgyRIQeJZ-z_XYbuzsaDzGjop_qhoUPYJW15Vq6Y3Bt23-Hh9WBvvkuf4",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "No. 3, 5, Tegalsari, Jalan Pregolan No.1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.241377800000001,
+               "lng" : 112.7438895
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "65e14c11f2851731e1d791149dec4cf3765dd671",
+         "name" : "Pasar Atum Mall",
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105913166660900671558/photos\"\u003eDon Lans\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAXtSyftOLaavHBzSp2aXH1ScOVaXFyd19_qBPKMhQ9Sj88z5YPHlfHsV-ARwiKVSUlX_v0WN-_LMfWsCAJYBq1xDxedIYAdXxq-5aOkrjEuYcTv7CB8z3nMnUgVC7R5RQEhCSDT1xcKOGlLIZqRL4_ma_GhTVc0XTH8AJP0Z96deIXgCkEpKpsA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJMSrXDhT51y0RMwhOp1c_Bww",
+         "rating" : 4,
+         "reference" : "CnRiAAAAy1AUM3KoPPyesai-BjwXFpWr-2Pw-o_DKmYBvUxZfPpCkwMkGplWSg9QgT2bp0UDwAkwOgvxwHdd8zrYt5nz3mdIjmRi3Y7uBM__ImIkovX0UJbzQq-KFM3WVnUX3lw2agT6TG601eLnj_hoDQA54BIQ0BFUOoceHPVGmANnu2L5YxoUwsXJZ7HinUANRle2t-mLPOC0-zU",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "health", "point_of_interest", "establishment" ],
+         "vicinity" : "JL.Stasiun Kota No. 7A, Surabaya - East Java Pasar Atom Mall 4th Floor, 60161"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.284928,
+               "lng" : 112.739425
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6a88ad6a1341b0d5cf74ca865a0cf4a1e93232e4",
+         "name" : "Hotel Mercure Surabaya",
+         "photos" : [
+            {
+               "height" : 768,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115032928510019467449/photos\"\u003eHotel Mercure Surabaya\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAomNHo0PKuMULRHxH_9Y0AFuGvhVTYbxcP5-7ajWXcLEiRbfga4Tpux_M4ugy_L8Mhs--kOWlilOqjgeDnASUHkdyF5RXRoJncIxzKC5ybPW5UolH7evl0RGbIyV6zxSBEhDxT8GGtxIoGyUJ9v-KDG5eGhSvjCgNcd0uDkeOjo_9-m57xyB8BA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJCe1mrfL71y0Rbrin8E6k6gc",
+         "rating" : 3.8,
+         "reference" : "CnRpAAAAkAc_Q8FY4MbkLVw-qVY7SmhikDTz5YXvPIPT44_eXY3oCW7uiHa3LWaR04i_R1dXbLvr6ufgItp-5aTJNHWltC6-WKiKQhOKkuHECm-Yn1ck1S85B0Pz0x9LidqoRPV0nY1ZvhlQcCnMVi4nneFkmRIQrGIYI5ag-4S0pnlpm8CtjBoU_EaA4s6U6tqIhyzmrDkFXh-1Vew",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "78, Jalan Raya Darmo No.68"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.297016699999999,
+               "lng" : 112.7387384
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "59734c2b89ff4b1f970acf437129f302d27381fa",
+         "name" : "Surabaya Zoo",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100678670058048380750/photos\"\u003edicky putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAY4p7__dgXAIJW0DD2x-X4YbE0wnPCluMUSQ29X86eoCU7U1rWcNqrmiNFEj8VvSVtAY7fDJmHxQq0nst1DM1hyp4fFS8f4CgAtiBHMPFZRfTn82mUTvU9OtYHoIqQffuEhDPZdIM0AQwa4ESrbzOv8_uGhRqUsyVK6vpvvy44LaHXtw2RYIyaw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJrS98kZf71y0RzHThXy0SsSE",
+         "rating" : 2.9,
+         "reference" : "CmRfAAAAh6jIIDyGiwCDK9UZn2b9IR8IjddTSTl6puoHfxHWraFzHVx2d48_F5DdAZ2WLSoxbXVwTc0pIg-Ah0hxjYSiwrlZQXlb2I-_mAgg6i9kU8Epq05ScgEH6Edl7SXS6YlQEhA1jitWjUZax__oHobJkSPQGhR-ugBQzW6gdz5d9QTtwcM_CbjJXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "zoo", "point_of_interest", "establishment" ],
+         "vicinity" : "Surabaya, Jl. Setail No. 1"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.2458463,
+               "lng" : 112.737821
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3cd9ad6b2e64d1494aba6c7cd7043b3a970a258c",
+         "name" : "Tugu Pahlawan",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 949,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100678670058048380750/photos\"\u003edicky putra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAHetuSFGfwZd2NdSd3A_n5afCO_gAsq1hG0MO9zGaFC33r5H_0VYLrMHGDJNbLAd76huxWcfhT-CHwwLERO9g2slSPRwZ_lbF876SenFEhR_MBY0G2Keb7MkRbGFTChZQEhDabobS0r1-MDFvkZE8z6LIGhSReALLZBtKxym_WKybYVjSRrb10Q",
+               "width" : 1265
+            }
+         ],
+         "place_id" : "ChIJ0Wxb6j_51y0Rf8C29egNiBc",
+         "rating" : 4.4,
+         "reference" : "CmRgAAAAACTHHnlOBctr-ByliU4sSL8mhbGbuG5Wz4CPR9KAY_du6Kb02x4CMLPm2gtljIg-T5fINWE6TyTIUe54e-FkhbKm_uX6L1yWqqj6cbDggkE2rAikzdXWSv29gZj8e2XSEhBbpJCqTHgfDmxqFTSxG9CKGhRLkUS3q32WBlNcI_YmFnrn6Y6BwQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Surabaya, Jalan Pahlawan, Kel. Alun-Alun Contong, Kec. Bubutan"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : -7.236541600000002,
+               "lng" : 112.7371324
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "1214fabfc925a6b4268131ce45eb1ed142f94c35",
+         "name" : "Hotel ibis Surabaya Rajawali",
+         "photos" : [
+            {
+               "height" : 1936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105913166660900671558/photos\"\u003eDon Lans\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRdAAAAnVr1wkS3mQHxWOAneGBd3GSl_KChYJaLblY67nnxD7EXUNHiHSShyfC-n6CODzMapOIM0pZmpWaL4Wd5vo8E3VMW-jKjlCvBtxUIu-fgqYdRGVJtXIozj6viKheNlRTcEhC7Eb8r099coj5scF3_CNJEGhSBtaWVKXdpGiXJ58lB0rgE4OIsWA",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJfUOF2iL51y0RU9TJdFxJNRQ",
+         "rating" : 3.9,
+         "reference" : "CnRvAAAActtBQXie5HWLDf7f0TrfF-EH6UH02heRnX2YUcd7og_PP4qqBXD-ljvDYYrHha1vAmvGOAspnNNa1vIiHuC9UZvl1zhXy625E8quIpPFV83lo2pVJME52VW4ZdDmXiQAwGhiepjc9jAM-mZcHso6MhIQm1DQuH6M4ZhwhaNbcQeUhRoULwskw7yNEmWECx234clDxNcxiv4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "lodging", "point_of_interest", "establishment" ],
+         "vicinity" : "No 11, Jalan Rajawali No.9"
+      }
+   ],
+   "status" : "OK"
+}
