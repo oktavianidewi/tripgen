@@ -9,15 +9,15 @@ nama_file = 'data.json'
 
 with open(nama_file) as data_file:
     json_data = json.load(data_file)
-
-    print(json_data['status'])
     if json_data['status'] == 'OK':
         for place in json_data['results']:
-            print '%s:' %(place['name'])
+            print(place)
+            # quit()
+            print('%s:' %(place['name']))
             for key in place['geometry']['location']:
-                print place['geometry']['location'][key]
+                print(place['geometry']['location'][key])
             for type in place['types']:
-                print '%s' %(type)
+                print('%s' %(type))
 
 """
 # to understand reduce function

@@ -8,14 +8,6 @@ list_distances = {
     'CE':771, 'EC':771, 'CF':529, 'FC':529, 'DE':762, 'ED':762, 'DF':398, 'FD':398, 'EF':328, 'FE':328
 }
 
-"""
-list_distances = {
-    'AB':7, 'BA':7, 'AC':5, 'CA':5, 'AD':9, 'DA':9, 'AE':9, 'EA':9,
-    'BC':7, 'CB':7, 'BD':2, 'DB':2, 'BE':8, 'EB':8, 'CD':4, 'DC':4,
-    'CE':3, 'EC':3, 'DE':6, 'ED':6
-}
-"""
-
 def individual(startPoint, noOfPlaces):
     list_letter = [huruf[x] for x in range(1, noOfPlaces)]
     places = []
@@ -39,7 +31,6 @@ def individual(startPoint, noOfPlaces):
 def population(noOfIndividual, startPoint, noOfPlaces):
     return [individual(startPoint, noOfPlaces) for x in range(noOfIndividual)]
 
-
 def fitness(individu):
     sample_distance = [list_distances[i] for i in individu]
     jumlah = reduce(add, sample_distance, 0)
@@ -62,12 +53,10 @@ def roulettewheel(populasi):
 
     populasi_baru = []
     probabilitas_populasi_baru = []
-    random_populasi_baru = []
     for j in range(len(kumulatif_probabilitas)-1):
         for k in range(len(randomnum)):
-            if kumulatif_probabilitas[j] < randomnum[k] and randomnum[k] < kumulatif_probabilitas[j+1]:
+            if ((randomnum[k] > kumulatif_probabilitas[j]) and (randomnum[k] <= kumulatif_probabilitas[j+1])):
                 populasi_baru.append(populasi[k])
-                # random_populasi_baru.append(randomnum[k])
                 probabilitas_populasi_baru.append(probabilitas_populasi[k])
 
     # return probabilitas_populasi_baru, populasi_baru
@@ -183,13 +172,13 @@ for i in range(generasi):
 
 # print(history_populasi)
 for i in range(0, len(history_populasi), gap_antar_generasi):
-    print "generasi ke : ", int(i+gap_antar_generasi)
+    print('generasi ke : ', int(i+gap_antar_generasi))
     hitung_fitness = [ fitness(item_history_populasi) for item_history_populasi in history_populasi[i] ]
     index = hitung_fitness.index(min(hitung_fitness))
-    print "fitness generasi : ", hitung_fitness
-    print "index fitness terendah : ", hitung_fitness.index(min(hitung_fitness))
-    print "nilai fitness terendah : ", hitung_fitness[index]
-    print "rute dengan fitness terendah : ", history_populasi[i][index]
-    print("\n")
+    # print "fitness generasi : ", hitung_fitness
+    print('index fitness terendah : ', hitung_fitness.index(min(hitung_fitness)))
+    print('nilai fitness terendah : ', hitung_fitness[index])
+    print('rute dengan fitness terendah : ', history_populasi[i][index])
+    print('\n')
     # kenapa ada individu yang kota-nya < 6 bisa ter-generate oleh sistem ya?
     # tampilkan 5 rekomendasi nilai terbaik aja
